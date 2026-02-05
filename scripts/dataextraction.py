@@ -11,7 +11,7 @@ titleRegEx = r"([Ii]m[Pp]r[iy]nted|[Pp]rinted|Unique|, dated|[Ww]ritten|\[?\bin\
 allusionsList = []
 
 for txt in os.listdir(txtFolder):
-  print(txt)
+  # print(txt)
   txt_path = os.path.join(txtFolder, txt)
   label, ext = os.path.splitext(txt_path)
 
@@ -33,10 +33,11 @@ for txt in os.listdir(txtFolder):
       author = re.search(authorRegEx, txtFile, flags=re.M).group(1)
       # print(author)
 
-      text = re.split(authorRegEx, txtFile)
-      # print(text[-1])
+      text = re.split(authorRegEx, txtFile, maxsplit=1, flags=re.M)
+      newText = [t for t in text if t is not None]
+      # print(newText[-1])
 
-      title = re.split(titleRegEx, text[-1], 1)
+      title = re.split(titleRegEx, newText[-1], 1)
       title_clean = re.sub(r'^\s', '', title[0])
       # print(title[0])
 
@@ -44,10 +45,10 @@ for txt in os.listdir(txtFolder):
 
       allusionsList.append([volume, pageNb_clean, date, author, title_clean, remainingText])
 
-print(allusionsList)
+# print(allusionsList)
 fields = ['Volume', 'Page', 'Date', 'Author', 'Title','Quotation']
 
-with open('allusionsListTest8.csv', 'w', newline='') as c:
+with open('allusionsListTest.csv', 'w', newline='') as c:
     writer = csv.writer(c)
     writer.writerow(fields)
     writer.writerows(allusionsList)
