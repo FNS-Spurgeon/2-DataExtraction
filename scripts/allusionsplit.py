@@ -17,7 +17,7 @@ for txt in os.listdir(txtFolder):
       pattern = r'((^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?|^\[?([nac]\.)+\s\d{4}[\.?]?\]?|^\[\d{2}\]\d{2}\.)(\s[?[A-Z]))'
 
       # We add two lines before entry dates
-      splitText = re.sub(pattern, r"\n\n\1", textFile, flags=re.M)
+      splitText = re.sub(pattern, r"\n\1", textFile, flags=re.M)
 
       # We split the text by dates
       newText = re.split(r"\n?\n\n", splitText)
