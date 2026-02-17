@@ -1,6 +1,8 @@
+import os
 import re
 
-file = "../export_doc1457_testocr_text_20260209101932.txt"
+file = "../15e-allusions.txt"
+folder = "../pages"
 pagePattern = r'^-{15}\s.*-{15}$'
 
 with open(file, "r") as f:
@@ -8,9 +10,12 @@ with open(file, "r") as f:
     # print(textFile)
     splitText = re.split(pagePattern, textFile, flags=re.M)
 
-    pageNb = 67
+    pageNb = 14
     for text in splitText[1:]:
-        name = "volume1_page" + str(pageNb) + ".txt"
-        with open(name, 'w', newline='') as a:
+        name = "vol1_p" + str(pageNb) + ".txt"
+        print(name)
+
+        file_path = os.path.join(folder, name)
+        with open(file_path, 'w', newline='') as a:
           a.write(text)
         pageNb += 1

@@ -1,7 +1,8 @@
 import re
 import os
 
-txtFolder = "../testFiles_split"
+txtFolder = "../pages/vol1-pages/15th-century-pages"
+allusionFolder = "../allusions"
 
 for txt in os.listdir(txtFolder):
   txt_path = os.path.join(txtFolder, txt)
@@ -14,10 +15,11 @@ for txt in os.listdir(txtFolder):
       textFile = f.read()
 
       # Regular expression to find different format of dates
-      pattern = r'((^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?|^\[?([nac]\.)+\s\d{4}[\.?]?\]?|^\[\d{2}\]\d{2}\.)(\s[?[A-Z]))'
+      pattern = r'((^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?|^\[?([nac]\.)+\s\d{4}[\.?]?\]?|^\[\d{2}\]\d{2}\.)(\s[?,?[A-Z]))'
 
       # We add two lines before entry dates
       splitText = re.sub(pattern, r"\n\1", textFile, flags=re.M)
+      # print(splitText)
 
       # We split the text by dates
       newText = re.split(r"\n?\n\n", splitText)
@@ -26,8 +28,10 @@ for txt in os.listdir(txtFolder):
       # Each entry is exported in a new .txt file
       allusionNb = 1
       for allusion in newText[1:]:
-        name = label + "_allusion_" + str(allusionNb) + ".txt"
-        with open(name, 'w', newline='') as a:
-          a.write(content + "\n" + allusion)
+        name = label[39:] + "_a" + str(allusionNb) + ".txt"
+        allusionPath = os.path.join(allusionFolder, name)
+
+        with open(allusionPath, 'w', newline='') as a:
+          a.write(allusion)
         allusionNb = allusionNb + 1
         print(name)
