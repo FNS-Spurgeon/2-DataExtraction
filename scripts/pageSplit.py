@@ -1,16 +1,18 @@
 import os
 import re
 
-file = "../15e-allusions.txt"
+file = "../15e-allusions.txt"  # Txt file exported from eScriptorium (Batch of pages)
 folder = "../pages"
+
 pagePattern = r'^-{15}\s.*-{15}$'
 
 with open(file, "r") as f:
     textFile = f.read()
-    # print(textFile)
+
+    # We split the text by pages
     splitText = re.split(pagePattern, textFile, flags=re.M)
 
-    pageNb = 14
+    pageNb = 14 # Number of the first page of the batch
     for text in splitText[1:]:
         name = "vol1_p" + str(pageNb) + ".txt"
         print(name)

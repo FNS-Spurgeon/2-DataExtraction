@@ -11,13 +11,13 @@ for txt in os.listdir(txtFolder):
   if txt.endswith('.txt'):
     with open(txt_path, "r") as f:
       # We get the first line of each line to preserve page numbers
-      content = f.readline()
+      # content = f.readline()
       textFile = f.read()
 
       # Regular expression to find different format of dates
       pattern = r'((^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?|^\[?([nac]\.)+\s\d{4}[\.?]?\]?|^\[\d{2}\]\d{2}\.)(\s[?,?[A-Z]))'
 
-      # We add two lines before entry dates
+      # We add a line before entry dates
       splitText = re.sub(pattern, r"\n\1", textFile, flags=re.M)
       # print(splitText)
 
