@@ -2,9 +2,9 @@ import re
 import os
 
 txtFolder = "../pages/vol1-pages/15th-century-pages"
-allusionFolder = "../allusions"
+allusionFolder = "../allusions/vol1-allusions"
 
-for txt in os.listdir(txtFolder):
+for txt in sorted(os.listdir(txtFolder)):
   txt_path = os.path.join(txtFolder, txt)
   label, ext = os.path.splitext(txt_path)
 
@@ -13,6 +13,9 @@ for txt in os.listdir(txtFolder):
       # We get the first line of each line to preserve page numbers
       # content = f.readline()
       textFile = f.read()
+
+      # postString = textFile.split("\n", 2)[2]
+      # print(postString)
 
       # Regular expression to find different format of dates
       pattern = r'((^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?|^\[?([nac]\.)+\s\d{4}[\.?]?\]?|^\[\d{2}\]\d{2}\.)(\s[?,?[A-Z]))'

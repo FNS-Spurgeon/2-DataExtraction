@@ -5,16 +5,17 @@ import csv
 txtFolder = "../allusions/vol1-allusions/15th-century-allusions"
 
 # Regular expressions
-dateRegEx = r'(^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?\.?|^\[?([nac]\.)+\s\d{4}[\.?]?\]?|^\[\d{2}\]\d{2}\.)(\s[?[A-Z])'
+dateRegEx = r'(^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?\.?|^\[?([nac]\.)+\s\d{4}-?(\d{1,2})?[\.?]?\]?\.?|^\[\d{2}\]\d{2}\.)(\s[?[A-Z])'
 authorRegEx = r"\d\??\.?\]?\.?\s(Unknown\.|[A-Z]\.*,*\s*[A-Z]*\.|\[?(D')?(De\s)?([A-Z]?[a-z]+-)?([A-Z][a-z]+)(,\s)\[*([A-Z][a-z]+\s)*([A-Z][a-z]+)(,\s)*(of|de)*\s*([A-Z][a-z]+)*(\sof|de)*(\s[A-Z][a-z]+)*\(?\??\)?\.?\]?)|([A-Z]\[?[a-z]*\]?),\s([A-Z]\[?[a-z]*\]?)\."
 titleRegEx = r"([Ii]m[Pp]r[iy]nted|[Pp]rinted|Unique|, dated|[Ww]ritten|\[?\bin\b\]?|\b[Bb]ook\b|MS[S]?\.|\[?\b[cfv]ol\b|sign\.|\[?\bto\b|\b[pf]p?\b\.)"
 
 allusionsList = []
 
-for txt in os.listdir(txtFolder):
+for txt in sorted(os.listdir(txtFolder)):
   # print(txt)
   txt_path = os.path.join(txtFolder, txt)
   label, ext = os.path.splitext(txt_path)
+  print(label)
 
   if txt_path.endswith('.txt'):
     with open(txt_path, "r") as f:
@@ -54,7 +55,7 @@ for txt in os.listdir(txtFolder):
 
       allusionsList.append([ID, volume, page, date, author, title_clean, remainingText])
 
-# print(allusionsList)
+print(allusionsList)
 
 # We create a CSV file from the list
 fields = ['ID', 'Volume', 'Page', 'Date', 'Author', 'Title','Quotation']

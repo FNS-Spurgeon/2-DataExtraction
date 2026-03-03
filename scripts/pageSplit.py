@@ -1,7 +1,7 @@
 import os
 import re
 
-file = "../15e-allusions.txt"  # Txt file exported from eScriptorium (Batch of pages)
+file = "../../1-Transcription/vol1/15th_allusions.txt"  # Txt file exported from eScriptorium (Batch of pages)
 folder = "../pages"
 
 pagePattern = r'^-{15}\s.*-{15}$'
