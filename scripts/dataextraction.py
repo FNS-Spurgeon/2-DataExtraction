@@ -2,12 +2,12 @@ import re
 import os
 import csv
 
-txtFolder = "../allusions/vol3-allusions/appendixB-allusions"
+txtFolder = "../allusions/vol2-allusions/1851-1875-allusions"
 
 # Regular expressions
 dateRegEx = r'(^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?\.?|^\[?([nac]\.)+\s\d{4}-?(\d{1,2})?[\.?]?\]?\.?|^\[\d{2}\]\d{2}\.)(\s[?[A-Z])'
 authorRegEx = r"\d\??\.?\]?\.?\s(Unknown\.|[A-Z]\.*,*\s*[A-Z]*\.|\[?(D')?(De\s)?([A-Z]?[a-z]+-)?([A-Z][a-z]+)(,\s)\[*([A-Z][a-z]+\s)*([A-Z][a-z]+)(,\s)*(of|de)*\s*([A-Z][a-z]+)*(\sof|de)*(\s[A-Z][a-z]+)*\(?\??\)?\.?\]?)|([A-Z]\[?[a-z]*\]?),\s([A-Z]\[?[a-z]*\]?)\."
-authorFrRegex = r"\d\??\.?\]?\.?\s(Unknown\.|[A-ZÉÈ]\.*,*\s*[A-ZÉÈ]*\.|\[?(D')?(De\s)?([A-ZÉÈ]?[a-zéèéë]+-)?([A-ZÉÈ][a-zéèé]+)(,\s)\[*([A-ZÉÈ][a-zéèé]+\s)*([A-ZÉÈ][a-zéèé]+)(,\s)*(of|de)*\s*([A-ZÉÈ][a-zéèé]+)*(\sof|de)*(\s[A-ZÉÈ][a-zéèé]+)*\(?\??\)?\.?\]?)|([A-ZÉÈ]\[?[a-zéèé]*\]?),\s([A-ZÉÈ]\[?[a-zéèé]*\]?)\."
+# authorFrRegex = r"\d\??\.?\]?\.?\s(Unknown\.|[A-ZÉÈ]\.*,*\s*[A-ZÉÈ]*\.|\[?(D')?(De\s)?([A-ZÉÈ]?[a-zéèéë]+-)?([A-ZÉÈ][a-zéèé]+)(,\s)\[*([A-ZÉÈ][a-zéèé]+\s)*([A-ZÉÈ][a-zéèé]+)(,\s)*(of|de)*\s*([A-ZÉÈ][a-zéèé]+)*(\sof|de)*(\s[A-ZÉÈ][a-zéèé]+)*\(?\??\)?\.?\]?)|([A-ZÉÈ]\[?[a-zéèé]*\]?),\s([A-ZÉÈ]\[?[a-zéèé]*\]?)\."
 titleRegEx = r"([Ii]m[Pp]r[iy]nted|[Pp]rinted|Unique|, dated|[Ww]ritten|\[?\bin\b\]?|\b[Bb]ook\b|MS[S]?\.|\[?\b[cfv]ol\b|sign\.|\[?\bto\b|\b[pf]p?\b\.)"
 
 allusionsList = []
@@ -24,8 +24,8 @@ for txt in sorted(os.listdir(txtFolder)):
       # print(txtFile)
 
       ID = re.split(r'/', label)[-1]
-      volume = "Vol.1"
-      part = "part 1"
+      volume = "Vol.2"
+      part = "part III"
       page = re.split(r'_', ID)[1]
 
       # pageNb_head = re.search(r'^\d*\s|\s\d*$', txtFile, flags=re.M)
@@ -36,8 +36,8 @@ for txt in sorted(os.listdir(txtFolder)):
       date = re.search(dateRegEx, txtFile, flags=re.M).group(1)
       # print(date)
 
-      if re.search(authorFrRegex, txtFile, flags=re.M).group(1):
-        author = re.search(authorFrRegex, txtFile, flags=re.M).group(1)
+      if re.search(authorRegEx, txtFile, flags=re.M).group(1):
+        author = re.search(authorRegEx, txtFile, flags=re.M).group(1)
       else:
         author = "N/A"
       # print(author)
@@ -61,7 +61,7 @@ print(allusionsList)
 
 # We create a CSV file from the list
 fields = ['ID', 'Volume', 'Part','Page', 'Date', 'Author', 'Title','Quotation']
-with open('vol3-appendixB-allusions.csv', 'w', newline='') as c:
+with open('vol2-1851-1875-allusions.csv', 'w', newline='') as c:
     writer = csv.writer(c)
     writer.writerow(fields)
     writer.writerows(allusionsList)

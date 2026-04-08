@@ -1,8 +1,8 @@
 import re
 import os
 
-txtFolder = "../pages/vol3-pages/appendixB-pages"
-allusionFolder = "../allusions/vol3-allusions"
+txtFolder = "../pages/vol2-pages/1851-1875"
+allusionFolder = "../allusions/vol2-allusions/1851-1875-allusions"
 
 for txt in sorted(os.listdir(txtFolder)):
   txt_path = os.path.join(txtFolder, txt)
@@ -31,7 +31,7 @@ for txt in sorted(os.listdir(txtFolder)):
       # Each entry is exported in a new .txt file
       allusionNb = 1
       for allusion in newText[1:]:
-        name = label[36:] + "_a" + str(allusionNb) + ".txt"
+        name = label[30:] + "_a" + str(allusionNb) + ".txt"
         allusionPath = os.path.join(allusionFolder, name)
 
         with open(allusionPath, 'w', newline='') as a:
