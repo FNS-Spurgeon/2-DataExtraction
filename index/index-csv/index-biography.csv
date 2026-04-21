@@ -1,0 +1,297 @@
+main_category,subcategory,sub_subcategory,author_name,date,volume,page
+biography,life-records,,Unknown,1400,I,1-14
+biography,life-records,,Unknown,1400,IV,3
+biography,life-records,,Rymer,1708-9,I,297
+biography,life-records,,Devon,1837,II,211
+biography,life-records,,Nicolas,1845,II,262
+biography,life-records,,N. and Q.,1865,III,79-80.
+biography,evolution,,Lounsbury,1891,III,140-144
+biography,episodes,diplomatic,Unknown,1359-60,I,1
+biography,episodes,diplomatic,Unknown,1360,I,1
+biography,episodes,diplomatic,Lowth,1759,I,416
+biography,episodes,diplomatic,Warton,1775,I,441
+biography,episodes,diplomatic,D.,1803,II,9
+biography,episodes,diplomatic,Z.,1803,II,14
+biography,episodes,diplomatic,Carey,1808,II,36
+biography,episodes,diplomatic,Landor,1829,II,172-176
+biography,episodes,diplomatic,Villemain,1830,V,45-47
+biography,episodes,diplomatic,Milton,[1638-9],I,219
+biography,episodes,diplomatic,Unknown,1370,I,2
+biography,episodes,diplomatic,Unknown,1372-3,I,2-3
+biography,episodes,diplomatic,Unknown,1376-8,I,4-6
+biography,episodes,diplomatic,Unknown,1380,I,6
+biography,episodes,diplomatic,Wharton,[c. 1687],IV,78
+biography,episodes,diplomatic,Froissart,1410,I,20
+biography,episodes,diplomatic,Stowe,1592,I,136.
+biography,episodes,tomb-epitath,Surigo,[a. 1479],I,59-60
+biography,episodes,tomb-epitath,Leland,[c. 1545],I,87
+biography,episodes,tomb-epitath,Caxton,1479,I,59
+biography,episodes,tomb-epitath,Berthelet,1532,I,78
+biography,episodes,tomb-epitath,Brigham,1556,I,94
+biography,episodes,tomb-epitath,Leland,[c. 1545],IV,18-19
+biography,episodes,tomb-epitath,Foxe,1570,I,107
+biography,episodes,tomb-epitath,Rogers,[c. 1570],I,107
+biography,episodes,tomb-epitath,Holinshed,1577,I,114
+biography,episodes,tomb-epitath,Lambarde,[c. 1585],I,126
+biography,episodes,tomb-epitath,Stowe,1598,I,159
+biography,episodes,tomb-epitath,Camden,1600,I,163
+biography,episodes,tomb-epitath,Marner,1606,I,178
+biography,episodes,tomb-epitath,Pits,1613,IV,65
+biography,episodes,tomb-epitath,Commaundre,[a. 1613],I,186
+biography,episodes,tomb-epitath,Vallans,1615,I,190-191
+biography,episodes,tomb-epitath,Basse,[c. 1622?],I,196
+biography,episodes,tomb-epitath,Weever,1631,I,204
+biography,episodes,tomb-epitath,Unknown,[c. 1680 ?],I,255
+biography,episodes,tomb-epitath,Keepe,1681,I,255-256
+biography,episodes,tomb-epitath,Keepe,1682,IV,77
+biography,episodes,tomb-epitath,Unknown,1700,I,286-288
+biography,episodes,tomb-epitath,Hatton,1708,I,296
+biography,episodes,tomb-epitath,Strype,1720,I,352
+biography,episodes,tomb-epitath,Dart,1723,I,363
+biography,episodes,tomb-epitath,Catling,[c. 1780],IV,96
+biography,episodes,tomb-epitath,Gough,1786- 96,I,483
+biography,episodes,tomb-epitath,Burlington,1779,I,456
+biography,episodes,tomb-epitath,Malcolm,1802,II,4
+biography,episodes,tomb-epitath,G. W. L.,1808,II,38
+biography,episodes,tomb-epitath,P.,1822,II,138
+biography,episodes,tomb-epitath,Brayley,1823,II,141
+biography,episodes,tomb-epitath,Allen,1828,II,168
+biography,episodes,tomb-epitath,N.B.,1849,II,279
+biography,episodes,tomb-epitath,Collier,1850,II,283
+biography,episodes,tomb-epitath,Collier,1850,II,283
+biography,episodes,tomb-epitath,M. N. S.,1850,II,286
+biography,episodes,tomb-epitath,Bruce,1851,III,4-5
+biography,episodes,tomb-epitath,H.,1858,III,43
+biography,episodes,tomb-epitath,Poole,1881,III,133
+biography,episodes,tomb-epitath,Unknown,1566,I,99
+biography,episodes,tomb-epitath,Unknown,1585,I,128
+biography,episodes,tomb-epitath,Cæsar,1596,I,143
+biography,episodes,tomb-epitath,Haslewood,1833,II,188
+biography,episodes,education,Leland,[c. 1545],IV,13
+biography,episodes,education,Pits,1613,IV,63
+biography,episodes,education,W. Covell,1595,I,141-142
+biography,episodes,education,G. Powel,[1604],I,174
+biography,episodes,education,G. Jacob,1720,I,349
+biography,episodes,education,G. Jacob,1720,I,349
+biography,episodes,education,Unknown,1837,II,219
+biography,episodes,education,Wharton,[c. 1687],IV,78
+biography,episodes,education,Leland,[c. 1545],IV,13
+biography,episodes,education,Pits,1613,IV,63
+biography,episodes,education,Leland,[c. 1545],IV,14
+biography,episodes,education,Pits,1613,IV,63-64
+biography,episodes,education,Wharton,[c. 1687],IV,78
+biography,episodes,education,Hazlitt,1826,II,161
+biography,episodes,education,Hunt,1835,II,197
+biography,episodes,education,Thynne,1598,I,154
+biography,episodes,education,Fuller,1655,I,230
+biography,episodes,education,Chatterton,1770,I,434
+biography,episodes,education,De Quincey,1841,II,229
+biography,episodes,education,Kingsley,1865,III,77-78
+biography,episodes,education,Lamb,1827,II,165-166
+biography,episodes,appointments,his first annuity from the Crown,1367-89),I,1-2
+biography,episodes,appointments,Esquire in the King’s Household,1369,I,2
+biography,episodes,appointments,Comptroller of Custom of Wools and Wines in the Port of London,1374,I,3
+biography,episodes,appointments,granted an annuity by John of Gaunt,1374,I,3
+biography,episodes,appointments,granted a daily pitcher of wine,1374,I,3
+biography,episodes,appointments,appoints a Deputy Controller of Customs,1384-5,I,7
+biography,episodes,appointments,receives Commission of the Peace for Kent,1386,I,7
+biography,episodes,appointments,returned as Knight of the Shire for Kent,1386,I,7-8
+biography,episodes,appointments,is succeeded as Controller of Customs and Petty Customs,1386,I,8
+biography,episodes,appointments,Commissioner in respect of the abduction of Isabella atte Halle,1387,I,8
+biography,episodes,appointments,Clerk of the Works from,1389,I,9-13
+biography,episodes,appointments,Commissioner for survey of Kentish shore of the Thames,1390,I,9
+biography,episodes,appointments,Sub-Forester of North Petherton,1390-1,I,11
+biography,episodes,appointments,granted an annuity of £20 by the king,1394,I,12
+biography,episodes,appointments,granted a butt of wine yearly,1398,I,13
+biography,episodes,appointments,granted an additional annuity of 40 marks,1399,I,13.
+biography,episodes,death,Leland,[c. 1545],IV,18
+biography,episodes,death,Bale,1548,IV,20
+biography,episodes,death,Holinshed,1577,I,114
+biography,episodes,death,Phillips,1675,I,250
+biography,episodes,death,Powel,[1604],I,174
+biography,episodes,death,S.,1597,I,144.
+biography,episodes,birth,Leland,[c. 1545],IV,13
+biography,episodes,birth,Pits,1613,IV,63
+biography,episodes,birth,Wharton,[c. 1687],IV,78
+biography,episodes,birth,Unknown,1778,I,452
+biography,episodes,birth,Clarke,1842,II,244.
+biography,episodes,other-episodes,in household of the Duchess of Clarence,1357,I,1
+biography,episodes,other-episodes,his Aldgate lease,1374,I,3
+biography,episodes,other-episodes,Riley,1859,III,51
+biography,episodes,other-episodes,Forster's lease of the same,1386,I,8
+biography,episodes,other-episodes,"“raptus"" of Cecily Chaumpaigne",1380,I,6
+biography,episodes,other-episodes,a witness in the Scrope-Grosvenor case,1386,I,8
+biography,episodes,other-episodes,Scott,1804,II,17-18
+biography,episodes,other-episodes,Ormerod,1819,II,118
+biography,episodes,other-episodes,Nicolas,1832,II,185-186
+biography,episodes,other-episodes,Unknown,1836,II,209-210
+biography,episodes,other-episodes,assaulted and robbed at Hatcham,1390,I,10-11
+biography,episodes,other-episodes,action for debt against,1398,I,12-13
+biography,episodes,other-episodes,his Westminster lease,1399,I,13-14
+biography,episodes,other-episodes,Rawlinson,1752,IV,91
+biography,episodes,other-episodes,Johnson,[1712?],I,322
+biography,episodes,other-episodes,Bale,1548,IV,19
+biography,episodes,other-episodes,A Student in Cambridge,1579,I,119
+biography,episodes,other-episodes,Greene,1590,I,131
+biography,episodes,other-episodes,Powel,[1604],I,174
+biography,episodes,other-episodes,Unknown,1606,I,177
+biography,episodes,other-episodes,Peacham,1622,I,197
+biography,episodes,other-episodes,Pits,1613,IV,64
+biography,episodes,other-episodes,Leigh,1656,I,233
+biography,episodes,other-episodes,Aubrey,1669,I,245
+biography,episodes,other-episodes,Phillips,1675,I,250
+biography,episodes,other-episodes,Wharton,[c. 1687],IV,78
+biography,episodes,other-episodes,Jacob,1720,I,349
+biography,episodes,other-episodes,Nicolas,1845,II,262
+biography,episodes,other-episodes,Gildon,1721,IV,84
+biography,episodes,other-episodes,Lydgate,[1403?],I,17
+biography,episodes,other-episodes,Phillips,1675,I,250
+biography,episodes,other-episodes,Dryden,1670,I,247
+biography,episodes,other-episodes,Howell,[1679],I,254
+biography,episodes,other-episodes,Jacob,1720,I,349
+biography,episodes,other-episodes,Unknown,1778,I,452-454
+biography,episodes,other-episodes,Wharton,[c. 1687],IV,79
+biography,episodes,other-episodes,Unknown,1778,I,453
+biography,episodes,other-episodes,Clarke,1835,II,194
+biography,episodes,other-episodes,Clarke,1842,II,244
+biography,episodes,other-episodes,Cunningham,1835,II,194-195
+biography,episodes,other-episodes,Leland,[c. 1545],IV,18
+biography,episodes,other-episodes,Peacham,1622,I,197
+biography,episodes,other-episodes,Pollard,1894,III,145.
+biography,family,arms-seal,Robson,1830,II,179
+biography,family,arms-seal,Rietstap,1858,V,91
+biography,family,arms-seal,Rietstap,1884,V,125
+biography,family,arms-seal,Unknown,1409,I,19
+biography,family,arms-seal,Hunter,1850,II,284.
+biography,family,genealogy,Gray,1760,I,417-418
+biography,family,genealogy,Skelton,1823,II,147-148
+biography,family,genealogy,Bentley,1831,II,180-181
+biography,family,genealogy,Unknown,1855,III,28
+biography,family,genealogy,Stowe,1600,I,164-165
+biography,family,genealogy,Fuller,1655,I,230
+biography,family,genealogy,V[erstegan],1605,I,176.
+biography,family,other-holders,Stowe,1598,I,159
+biography,family,other-holders,Malcolm,1803,II,11
+biography,family,other-holders,Allen,1828,II,168
+biography,family,other-holders,Stowe,1600,I,164-165
+biography,family,other-holders,Jameson,1829,II,172
+biography,family,other-holders,Bentley,1831,II,180-181
+biography,family,other-holders,Nicolas,1844,II,256
+biography,family,other-holders,Unknown,1374,I,3
+biography,family,other-holders,Unknown,1409,I,19
+biography,family,other-holders,Stowe,1600,I,164-166
+biography,family,other-holders,Gascoigne,1434-57,I,43
+biography,family,other-holders,Le Neve,1701,I,289
+biography,family,other-holders,Gray,1760,I,417-418
+biography,family,other-holders,Nicolas,1826,II,163
+biography,family,other-holders,Unknown,1787,I,486
+biography,family,other-holders,Bentley,1831,II,180-181
+biography,family,other-holders,Weever,1631,IV,66
+biography,family,other-holders,Pits,1613,IV,64-65.
+biography,portraits,original,Unknown,1866,III,86
+biography,portraits,original,Eller,1841,II,233
+biography,portraits,original,"""M—s.""",1792,I,493
+biography,portraits,original,Gray,1760,I,417-418
+biography,portraits,original,Evelyn,1689,I,261
+biography,portraits,original,Hoccleve,1412,I,21-23
+biography,portraits,original,Andrews,1759,I,416
+biography,portraits,original,Unknown,1783,I,476
+biography,portraits,original,Dallaway,1826,II,160-61
+biography,portraits,original,Gatacre,1821,II,135
+biography,portraits,original,Harbottle,1836,II,209
+biography,portraits,original,Unknown,[c. 1540],I,82-83
+biography,portraits,original,Sykes,1726,I,368
+biography,portraits,original,Hearne,1711,I,315
+biography,portraits,original,Bridges,1716,I,343
+biography,portraits,original,Gray,1760,I,417-418
+biography,portraits,original,Walpole,1762,I,423
+biography,portraits,original,Proctor,1824,II,151-152
+biography,portraits,original,Elmes,1825,II,156
+biography,portraits,original,Spence,1728-58,I,413
+biography,portraits,original,Speght,1598,I,147
+biography,portraits,original,T.,1792,I,494
+biography,portraits,original,Ellis,1812,II,58
+biography,portraits,original,Ellis,1819,II,115
+biography,portraits,original,Elmes,1825,II,156
+biography,portraits,original,Hazlitt,1829-30,II,172
+biography,portraits,original,Aubrey,1669,I,245
+biography,portraits,original,Skelton,1823,II,147
+biography,portraits,original,Tyson,1792,IV,99.
+biography,portraits,engraved,Speght,1598,I,147
+biography,portraits,engraved,Thynne,1602,I,170
+biography,portraits,engraved,mentioned,T.,I,494
+biography,portraits,engraved,Birch,1743,IV,88
+biography,portraits,engraved,Walpole,1763,I,424
+biography,portraits,engraved,Gray,1760,I,417-418
+biography,portraits,engraved,Bromley,1793,I,494.
+biography,portraits,modern,Barry,1783,I,472
+biography,portraits,modern,Ford Madox Brown,1845-51,II,259
+biography,portraits,modern,Burne Jones,1874,III,61
+biography,portraits,modern,Dodsley,1761,IV,93
+biography,portraits,modern,Unknown,1845,II,260
+biography,portraits,modern,Rymsdyk,1778,IV,95
+biography,portraits,modern,D’Israeli,1793,IV,100
+biography,portraits,modern,Unknown,[1592],I,137.
+biography,general-accounts,german,Breyer,1812,V,138-139
+biography,general-accounts,german,Meyer,1845,V,141-142
+biography,general-accounts,german,Behnsch,1853,V,143
+biography,general-accounts,german,Hertzberg,1856,V,143-
+biography,general-accounts,german,Pauli,1860,V,145.
+biography,general-accounts,french,Moréri,1674,V,18-20
+biography,general-accounts,french,Moréri,1681,V,18-19
+biography,general-accounts,french,Unknown,1707,V,20
+biography,general-accounts,french,Unknown,1740,V,21
+biography,general-accounts,french,Yart,1749,V,24-26
+biography,general-accounts,french,Yart,1763-6,V,29-30
+biography,general-accounts,french,Chauffepié,1760,V,27-29
+biography,general-accounts,french,Unknown,1765,V,32-34
+biography,general-accounts,french,Chaudon,1766,V,34
+biography,general-accounts,french,Feller,1791,V,37
+biography,general-accounts,french,Unknown,1777,I,449
+biography,general-accounts,french,Unknown,1775,V,35-36
+biography,general-accounts,french,Hennet,1806,V,38-39
+biography,general-accounts,french,Suard,1813,V,40-41
+biography,general-accounts,french,Lécluze,1838,V,51-53
+biography,general-accounts,french,Gomont,1847,V,55-60
+biography,general-accounts,french,Geffroy,1857,V,65-66
+biography,general-accounts,french,Larousse,1867,V,80-82
+biography,general-accounts,french,Gausseron,1887,V,92-94
+biography,general-accounts,french,Legouis,1910,V,121-2.
+biography,general-accounts,english,Leland,[c. 1545],IV,13-19
+biography,general-accounts,english,Bale,1548-57,IV,19-27
+biography,general-accounts,english,Holinshed,1577,I,114-15
+biography,general-accounts,english,Stowe,1600,I,164-165
+biography,general-accounts,english,Pits,1613,I,191
+biography,general-accounts,english,Pits,1613,IV,63-66
+biography,general-accounts,english,T. Fuller,1655,I,230-231
+biography,general-accounts,english,Leigh,1656,I,233
+biography,general-accounts,english,Wharton,1687,IV,78-80
+biography,general-accounts,english,Jacob,1720,I,349
+biography,general-accounts,english,Dart,1721,I,358-361
+biography,general-accounts,english,Unknown,1748,I,395-396
+biography,general-accounts,english,Unknown,1753,I,407
+biography,general-accounts,english,Unknown,1761,I,421
+biography,general-accounts,english,Unknown,1766,I,429
+biography,general-accounts,english,Berkenhout,1777,I,447
+biography,general-accounts,english,Unknown,1778,I,452-454
+biography,general-accounts,english,Anderson,1793,I,494
+biography,general-accounts,english,Godwin,1803,II,6-9
+biography,general-accounts,english,Rees,1819,II,118-119
+biography,general-accounts,english,Unknown,1827,II,167-168
+biography,general-accounts,english,Unknown,1828,II,171
+biography,general-accounts,english,Campbell,1830,II,177-178
+biography,general-accounts,english,Clarke,1835,II,194
+biography,general-accounts,english,Cunningham,1835,II,194-195
+biography,general-accounts,english,Dunham,1836,II,204-205
+biography,general-accounts,english,Unknown,1837,II,219
+biography,general-accounts,english,Schmitz,1841,II,234
+biography,general-accounts,english,Clarke,1842,II,244
+biography,general-accounts,english,Chambers,1843,IV,106
+biography,general-accounts,english,Nicolas,1843-4,II,262
+biography,general-accounts,english,Saunders,1845,II,266
+biography,general-accounts,english,Deshler,1847,II,274
+biography,general-accounts,english,Unknown,1849,II,281-282
+biography,general-accounts,english,Unknown,1856,III,36-37
+biography,general-accounts,english,Unknown,1866,III,85
+biography,general-accounts,english,Ward,1879,III,124-126
+biography,general-accounts,english,Pollard,1893,III,144-145.
