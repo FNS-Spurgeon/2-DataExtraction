@@ -4,7 +4,7 @@ biography,life-records,,Unknown,1400,IV,3
 biography,life-records,,Rymer,1708-9,I,297
 biography,life-records,,Devon,1837,II,211
 biography,life-records,,Nicolas,1845,II,262
-biography,life-records,,N. and Q.,1865,III,79-80.
+biography,life-records,,N. and Q.,1865,III,79-80
 biography,evolution,,Lounsbury,1891,III,140-144
 biography,episodes,diplomatic,Unknown,1359-60,I,1
 biography,episodes,diplomatic,Unknown,1360,I,1
@@ -22,7 +22,7 @@ biography,episodes,diplomatic,Unknown,1376-8,I,4-6
 biography,episodes,diplomatic,Unknown,1380,I,6
 biography,episodes,diplomatic,Wharton,[c. 1687],IV,78
 biography,episodes,diplomatic,Froissart,1410,I,20
-biography,episodes,diplomatic,Stowe,1592,I,136.
+biography,episodes,diplomatic,Stowe,1592,I,136
 biography,episodes,tomb-epitath,Surigo,[a. 1479],I,59-60
 biography,episodes,tomb-epitath,Leland,[c. 1545],I,87
 biography,episodes,tomb-epitath,Caxton,1479,I,59
@@ -103,18 +103,18 @@ biography,episodes,appointments,Commissioner for survey of Kentish shore of the 
 biography,episodes,appointments,Sub-Forester of North Petherton,1390-1,I,11
 biography,episodes,appointments,granted an annuity of £20 by the king,1394,I,12
 biography,episodes,appointments,granted a butt of wine yearly,1398,I,13
-biography,episodes,appointments,granted an additional annuity of 40 marks,1399,I,13.
+biography,episodes,appointments,granted an additional annuity of 40 marks,1399,I,13
 biography,episodes,death,Leland,[c. 1545],IV,18
 biography,episodes,death,Bale,1548,IV,20
 biography,episodes,death,Holinshed,1577,I,114
 biography,episodes,death,Phillips,1675,I,250
 biography,episodes,death,Powel,[1604],I,174
-biography,episodes,death,S.,1597,I,144.
+biography,episodes,death,S.,1597,I,144
 biography,episodes,birth,Leland,[c. 1545],IV,13
 biography,episodes,birth,Pits,1613,IV,63
 biography,episodes,birth,Wharton,[c. 1687],IV,78
 biography,episodes,birth,Unknown,1778,I,452
-biography,episodes,birth,Clarke,1842,II,244.
+biography,episodes,birth,Clarke,1842,II,244
 biography,episodes,other-episodes,in household of the Duchess of Clarence,1357,I,1
 biography,episodes,other-episodes,his Aldgate lease,1374,I,3
 biography,episodes,other-episodes,Riley,1859,III,51
@@ -157,19 +157,19 @@ biography,episodes,other-episodes,Clarke,1842,II,244
 biography,episodes,other-episodes,Cunningham,1835,II,194-195
 biography,episodes,other-episodes,Leland,[c. 1545],IV,18
 biography,episodes,other-episodes,Peacham,1622,I,197
-biography,episodes,other-episodes,Pollard,1894,III,145.
+biography,episodes,other-episodes,Pollard,1894,III,145
 biography,family,arms-seal,Robson,1830,II,179
 biography,family,arms-seal,Rietstap,1858,V,91
 biography,family,arms-seal,Rietstap,1884,V,125
 biography,family,arms-seal,Unknown,1409,I,19
-biography,family,arms-seal,Hunter,1850,II,284.
+biography,family,arms-seal,Hunter,1850,II,284
 biography,family,genealogy,Gray,1760,I,417-418
 biography,family,genealogy,Skelton,1823,II,147-148
 biography,family,genealogy,Bentley,1831,II,180-181
 biography,family,genealogy,Unknown,1855,III,28
 biography,family,genealogy,Stowe,1600,I,164-165
 biography,family,genealogy,Fuller,1655,I,230
-biography,family,genealogy,V[erstegan],1605,I,176.
+biography,family,genealogy,V[erstegan],1605,I,176
 biography,family,other-holders,Stowe,1598,I,159
 biography,family,other-holders,Malcolm,1803,II,11
 biography,family,other-holders,Allen,1828,II,168
@@ -187,7 +187,7 @@ biography,family,other-holders,Nicolas,1826,II,163
 biography,family,other-holders,Unknown,1787,I,486
 biography,family,other-holders,Bentley,1831,II,180-181
 biography,family,other-holders,Weever,1631,IV,66
-biography,family,other-holders,Pits,1613,IV,64-65.
+biography,family,other-holders,Pits,1613,IV,64-65
 biography,portraits,original,Unknown,1866,III,86
 biography,portraits,original,Eller,1841,II,233
 biography,portraits,original,"""M—s.""",1792,I,493
@@ -216,14 +216,14 @@ biography,portraits,original,Elmes,1825,II,156
 biography,portraits,original,Hazlitt,1829-30,II,172
 biography,portraits,original,Aubrey,1669,I,245
 biography,portraits,original,Skelton,1823,II,147
-biography,portraits,original,Tyson,1792,IV,99.
+biography,portraits,original,Tyson,1792,IV,99
 biography,portraits,engraved,Speght,1598,I,147
 biography,portraits,engraved,Thynne,1602,I,170
 biography,portraits,engraved,mentioned,T.,I,494
 biography,portraits,engraved,Birch,1743,IV,88
 biography,portraits,engraved,Walpole,1763,I,424
 biography,portraits,engraved,Gray,1760,I,417-418
-biography,portraits,engraved,Bromley,1793,I,494.
+biography,portraits,engraved,Bromley,1793,I,494
 biography,portraits,modern,Barry,1783,I,472
 biography,portraits,modern,Ford Madox Brown,1845-51,II,259
 biography,portraits,modern,Burne Jones,1874,III,61
@@ -231,12 +231,12 @@ biography,portraits,modern,Dodsley,1761,IV,93
 biography,portraits,modern,Unknown,1845,II,260
 biography,portraits,modern,Rymsdyk,1778,IV,95
 biography,portraits,modern,D’Israeli,1793,IV,100
-biography,portraits,modern,Unknown,[1592],I,137.
+biography,portraits,modern,Unknown,[1592],I,137
 biography,general-accounts,german,Breyer,1812,V,138-139
 biography,general-accounts,german,Meyer,1845,V,141-142
 biography,general-accounts,german,Behnsch,1853,V,143
 biography,general-accounts,german,Hertzberg,1856,V,143-
-biography,general-accounts,german,Pauli,1860,V,145.
+biography,general-accounts,german,Pauli,1860,V,145
 biography,general-accounts,french,Moréri,1674,V,18-20
 biography,general-accounts,french,Moréri,1681,V,18-19
 biography,general-accounts,french,Unknown,1707,V,20
@@ -256,7 +256,7 @@ biography,general-accounts,french,Gomont,1847,V,55-60
 biography,general-accounts,french,Geffroy,1857,V,65-66
 biography,general-accounts,french,Larousse,1867,V,80-82
 biography,general-accounts,french,Gausseron,1887,V,92-94
-biography,general-accounts,french,Legouis,1910,V,121-2.
+biography,general-accounts,french,Legouis,1910,V,121-2
 biography,general-accounts,english,Leland,[c. 1545],IV,13-19
 biography,general-accounts,english,Bale,1548-57,IV,19-27
 biography,general-accounts,english,Holinshed,1577,I,114-15
@@ -294,4 +294,4 @@ biography,general-accounts,english,Unknown,1849,II,281-282
 biography,general-accounts,english,Unknown,1856,III,36-37
 biography,general-accounts,english,Unknown,1866,III,85
 biography,general-accounts,english,Ward,1879,III,124-126
-biography,general-accounts,english,Pollard,1893,III,144-145.
+biography,general-accounts,english,Pollard,1893,III,144-145
