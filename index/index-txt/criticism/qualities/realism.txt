@@ -1,0 +1,24 @@
+Unknown, 1477, i. 57;
+Beaumont, 1597, i. 146;
+Dryden, 1700, i. 274-6;
+Dart, 1721, i. 361;
+Pope, 1728-30, i. 370;
+Morell, 1737, i. 382;
+J. Bancks, 1738, i. 383;
+Thomson, 1744, i. 391;
+Warton, 1774, i. 440;
+Greene, 1782, i. 466;
+Crabbe, 1812, ii. 57-8;
+Hazlitt, 1817, ii. 87-9;
+Campbell, 1819, ii. 113;
+Keats, 1819, ii. 118;
+Hippisley, 1837, ii. 216;
+Hunt, 1844, ii. 255;
+Unknown, 1845, ii. 266-7;
+Unknown, 1849, ii. 281-2;
+Edgar, 1852, iii. 9;
+Smith, [n.a. 1863], iii. 71;
+Lowell, 1870, iii. 109;
+Green, 1874, iii. 118-9;
+Ward, 1879, iii. 125-6;
+Lounsbury, 1891, iii. 141.

@@ -1,8 +1,7 @@
 import csv
 import os
 
-file = "../biography/episodes/education.txt"
-folder = "../pages/vol3-pages/index/biography"
+folder = "../index/index-txt/criticism"
 infoList = []
 
 for subdir, dirs, files in os.walk(folder):  # We parse the directories
@@ -30,13 +29,14 @@ for subdir, dirs, files in os.walk(folder):  # We parse the directories
                     pageInfo = entryInfo[2].split(" ")
 
                     # All the information are stored in a list
-                    infoList.append([mainCat, subCat, subSubCat[:-4], authorName, date, pageInfo[1][:-1].upper(), pageInfo[2]])
+                    infoList.append(
+                        [mainCat, subCat, subSubCat[:-4], authorName, date, pageInfo[1][:-1].upper(), pageInfo[-1]])
 
             # print(infoList[1])
 
 # The list is transformed into a CSV file corresponding to the main category
 fields = ['main_category', 'subcategory', 'sub_subcategory', 'author_name', 'date', 'volume', 'page']
-with open('biography.csv', 'w', newline='') as c:
+with open('criticism.csv', 'w', newline='') as c:
     writer = csv.writer(c)
     writer.writerow(fields)
     writer.writerows(infoList)
