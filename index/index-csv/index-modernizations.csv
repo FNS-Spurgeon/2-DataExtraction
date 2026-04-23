@@ -1,0 +1,113 @@
+main_category,subcategory,sub_subcategory,author_name,date,volume,page
+modernizations,general,condemned,Harrison,1706,I,293
+modernizations,general,condemned,Warton,1751,I,409
+modernizations,general,condemned,Warton,1762,I,423
+modernizations,general,condemned,Warton,1774,I,439-440
+modernizations,general,condemned,Unknown,1826,II,164
+modernizations,general,condemned,Landor,[n.a. 1841],II,238-239
+modernizations,general,condemned,Unknown,1847,II,275
+modernizations,general,criticized,Hunt,1817,II,89
+modernizations,general,criticized,Johnstone,1828,II,169-170
+modernizations,general,criticized,Browning,1840,II,226-227
+modernizations,general,criticized,Horne,1841,II,237
+modernizations,general,criticized,Saunders,1845-7,II,264-266
+modernizations,general,praisedDefended,C. B.,1749,I,399
+modernizations,general,praisedDefended,Dalrymple (?),1761,I,421
+modernizations,general,praisedDefended,Walpole,1774,I,439
+modernizations,general,praisedDefended,Walpole,1781,I,461
+modernizations,general,praisedDefended,Hunt,1855,III,22-23
+modernizations,general,praisedDefended,Dart,1718,I,346
+modernizations,particular,ogle,Ogle,1739,I,384-386
+modernizations,particular,ogle,C. T.,1741,I,389-390
+modernizations,particular,harte,Harte,1727,IV,84
+modernizations,particular,tytler,Tytler,1828,II,171
+modernizations,particular,browning,Browning,1841,II,235
+modernizations,particular,markland,Markland,1728,I,370
+modernizations,particular,markland,Ogle,1741,I,389-390
+modernizations,particular,dryden,Dryden,1700,I,272-285
+modernizations,particular,dryden,Hughes,[c. 1707],I,294
+modernizations,particular,dryden,Walpole,1775,IV,94
+modernizations,particular,dryden,Reeve,1785,I,479
+modernizations,particular,dryden,Harrison,1706,I,293
+modernizations,particular,dryden,Southey,1803,II,12
+modernizations,particular,dryden,Hazlitt,1815,II,70
+modernizations,particular,dryden,Hazlitt,1818,II,105-106
+modernizations,particular,dryden,Lowell,1815,II,261
+modernizations,particular,dryden,Smith,1862,III,65
+modernizations,particular,dryden,Johnson,1779-81,I,456-457
+modernizations,particular,dryden,Scott,1808,II,39-41
+modernizations,particular,dryden,Schoepke,1878,V,149
+modernizations,particular,dryden,Aikin,1804,II,14-15
+modernizations,particular,maynwaring,Maynwaring,1709,I,310
+modernizations,particular,cobb,Cobb,1725,IV,84
+modernizations,particular,sewell,Sewell,1718,I,347-348
+modernizations,particular,sewell,Sewell,1720,I,350-352
+modernizations,particular,jackson,Jackson,1750,I,401
+modernizations,particular,grosvenor,Grosvenor,[1733],IV,86
+modernizations,particular,cooke,Cooke,1774,I,438
+modernizations,particular,trinitarius,Trinitarius,1800,I,504
+modernizations,particular,bell,Bell,1841,II,234
+modernizations,particular,haweis,Haweis,1876,III,121
+modernizations,particular,saunders,Saunders,1846-7,II,264-266
+modernizations,particular,z,Powell,1841,II,239-340
+modernizations,particular,storr,Storr,1878,III,123
+modernizations,particular,dunkin,Dunkin,[a. 1765],IV,93
+modernizations,particular,dart,Dart,1718,I,346
+modernizations,particular,pope,Pope,1709,I,310
+modernizations,particular,pope,Wieland,1780,V,134
+modernizations,particular,pope,Pope,1711,I,318
+modernizations,particular,pope,Ralph,1728,IV,84-85
+modernizations,particular,pope,Johnson,1779,I,457
+modernizations,particular,pope,Warton,1782,I,471
+modernizations,particular,pope,Pope,1714,I,330
+modernizations,particular,pope,Pope,1717,I,346
+modernizations,particular,pope,[Neve,1789,I,489
+modernizations,particular,pope,Unknown,1711,I,319
+modernizations,particular,pope,Warton,1797,I,500
+modernizations,particular,pope,C. B.,1749,I,399
+modernizations,particular,pope,Roscoe,1824,II,152
+modernizations,particular,pope,Theobald,1732,I,374
+modernizations,particular,pope,Smith,1862,III,65
+modernizations,particular,pope,Schade,1897,V,152
+modernizations,particular,thurlow,Thurlow,1822,II,140
+modernizations,particular,thurlow,Thurlow,1823,II,148
+modernizations,particular,milnes,Milnes,1844,II,256
+modernizations,particular,hunt,Hunt,1820,II,126
+modernizations,particular,hunt,Hunt,1845,II,260
+modernizations,particular,hunt,Hunt,1855,III,22-23
+modernizations,particular,hunt,Hunt,1823,IV,105
+modernizations,particular,hunt,Horne,1841,II,235
+modernizations,particular,hunt,Hunt,1855,III,22-23
+modernizations,particular,clarke,Clarke,1833,II,187
+modernizations,particular,clarke,Clarke,1835,II,194
+modernizations,particular,betterton,Betterton,[a. 1710],I,312
+modernizations,particular,lipscomb,Lipscomb,1791,I,493
+modernizations,particular,lipscomb,C. T.,1795,I,496-497
+modernizations,particular,johnstone,Johnstone,1827,II,165
+modernizations,particular,wordsworth,Wordsworth,1801,II,2-3
+modernizations,particular,wordsworth,Wordsworth,1802,II,5
+modernizations,particular,wordsworth,Horne,1841,II,234-238
+modernizations,particular,catcott,Catcott,1717,I,345
+modernizations,particular,horne,Horne,1841,II,234-238
+modernizations,particular,horne,Landor,[n.a. 1841],II,238-239
+modernizations,particular,horne,Unknown,1841,II,241
+modernizations,particular,horne,Wordsworth,1840,II,228-229
+modernizations,particular,horne,Wordsworth,1841,II,242
+modernizations,particular,penn,Penn,1794,I,495-496
+modernizations,particular,anonymous,Unknown,1737,IV,87
+modernizations,particular,anonymous,Unknown,1769,IV,94
+modernizations,particular,anonymous,Unknown,1791,I,493
+modernizations,particular,anonymous,Unknown,1794,IV,100
+modernizations,particular,anonymous,Unknown,1796,I,499
+modernizations,particular,anonymous,L.G.W.,1803,II,13
+modernizations,particular,anonymous,Unknown,1804,II,21
+modernizations,particular,anonymous,C.T.,1811,II,56
+modernizations,particular,anonymous,Unknown,1815,II,80-81
+modernizations,particular,anonymous,Unknown,1837,II,219
+modernizations,particular,anonymous,Unknown,1841,II,240-241
+modernizations,particular,anonymous,Unknown,1845,II,266
+modernizations,particular,powell,Wordsworth,1841,II,228-229
+modernizations,particular,powell,Horne,1841,II,234-238
+modernizations,particular,powell,Powell,1841,II,239-340
+modernizations,particular,powell,Browning,1846,I,267-268
+modernizations,particular,pittTaylor,Pitt-Taylor,1884,III,135-136

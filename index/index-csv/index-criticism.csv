@@ -1,0 +1,704 @@
+main_category,subcategory,sub_subcategory,author_name,date,volume,page
+criticism,prose,,Gray,1835,II,195
+criticism,prose,,Guest,1838,II,223-224
+criticism,prose,,Steevens,1796,I,498-499
+criticism,prose,,Bulwer,1860,III,53
+criticism,prose,,Keightley N. & Q.,1865,III,65
+criticism,prose,,Collier,1865,III,75-76
+criticism,evolution,,Hippisley,1837,II,213-14
+criticism,evolution,,Baynes,1870,III,99-107
+criticism,evolution,,Horne,1841,II,235-238
+criticism,evolution,,Sewell,1720,I,351-352
+criticism,evolution,,Headley,1787,I,486
+criticism,evolution,,Unknown,1836,II,208
+criticism,evolution,,Smith,1862,III,65-66
+criticism,evolution,,Legouis,1908,V,113-119
+criticism,evolution,,Baynes,1870,III,99-107
+criticism,evolution,,Furnivall,1888,III,138
+criticism,influence,,Arthur Broke,1562,IV,29-33
+criticism,influence,,William Browne,1613-16,IV,62
+criticism,influence,,Lyly,[1578],IV,41-42
+criticism,influence,,Upton,1748,I,396-398
+criticism,influence,,Shakespeare,[1589-1603],IV,45-46
+criticism,influence,,Spenser,1579,I,118-119
+criticism,influence,,Howard,[n.a. 1547],IV,19
+criticism,influence,,Wyatt,[a. 1542],IV,12
+criticism,influence,,[Chapman,1606,IV,57-60
+criticism,general,,Webbe,1586,I,129
+criticism,general,,Dryden,1700,I,272-285
+criticism,general,,Warton,1774,I,439-341
+criticism,general,,Eschenburg (?),1793,V,135-137
+criticism,general,,Southey,1814,II,66-67
+criticism,general,,C.B.,1818,II,94
+criticism,general,,Coleridge,1818,II,95-96
+criticism,general,,Hallam,1818,II,97
+criticism,general,,Hazlitt,1818,II,98-106
+criticism,general,,Campbell,1819,II,110-113
+criticism,general,,Hazlitt,1824,II,150
+criticism,general,,Unknown,1824,II,153-155
+criticism,general,,Neele,1827,II,166
+criticism,general,,Southey,1831,II,183
+criticism,general,,Hunt,1835,II,195-196
+criticism,general,,Hallam,1837,II,212
+criticism,general,,Hippisley,1837,II,212-217
+criticism,general,,Villemain,1830,V,45-47
+criticism,general,,Villemain,1837,V,50
+criticism,general,,D’Israeli,1841,II,231-233
+criticism,general,,Barrett-Browning,1842,II,242-243
+criticism,general,,Thoreau,1843,II,250-252
+criticism,general,,Hunt,1844,II,253-255
+criticism,general,,North,1845,II,262-263
+criticism,general,,Hunt,1846,II,269-271
+criticism,general,,Case,1854,III,15-17
+criticism,general,,Milman,1855,III,23-25
+criticism,general,,Unknown,1859,III,51-52
+criticism,general,,Sandras,1859,V,69-74
+criticism,general,,Unknown,1862,III,66
+criticism,general,,Taine,1863,V,76-79
+criticism,general,,Smith,1863,III,70-71
+criticism,general,,Maurice,1865,III,78-79
+criticism,general,,Baynes,1870,III,98-107
+criticism,general,,Lowell,1870,III,108-111
+criticism,general,,Furnivall,1873,III,113-114
+criticism,general,,Green,1874,III,117-119
+criticism,general,,Ward,1879,III,124-126
+criticism,general,,Arnold,1880,III,126-130
+criticism,general,,Swinburne,1880,III,131-132
+criticism,general,,Lounsbury,1891,III,140-144
+criticism,general,,Pollard,1893,III,144-145
+criticism,general,,Jusserand,1894,V,97-100
+criticism,general,,Jusserand,1896,V,104-106
+criticism,general,,Ker,1895,III,148-50
+criticism,general,,Gebhart,1907,V,107-109
+criticism,general,,Legouis,1908,V,113-119
+criticism,qualities,eloquence,Lydgate,[1400],I,14-15
+criticism,qualities,eloquence,Lydgate,[c. 1400],I,15
+criticism,qualities,eloquence,Lydgate,[c. 1401],I,15
+criticism,qualities,eloquence,Lydgate,[1402-3],I,15-16
+criticism,qualities,eloquence,Lydgate,[c. 1403?],I,16-17
+criticism,qualities,eloquence,Lydgate,[1403?],I,17-18
+criticism,qualities,eloquence,Lydgate,[1409-10?],I,19-20
+criticism,qualities,eloquence,Lydgate,[1412-20],I,23-25
+criticism,qualities,eloquence,Lydgate,1430,I,36-43
+criticism,qualities,eloquence,Walton,1410,I,20
+criticism,qualities,eloquence,Hoccleve,1412,I,21
+criticism,qualities,eloquence,James I.,1423,I,34
+criticism,qualities,eloquence,Unknown,[c. 1440],I,45
+criticism,qualities,eloquence,Shirley,[c. 1450],I,49
+criticism,qualities,eloquence,Unknown,[1450-60?],I,53
+criticism,qualities,eloquence,Unknown,[a. 1477],I,57
+criticism,qualities,eloquence,Caxton,[a. 1479],I,58
+criticism,qualities,eloquence,Dunbar,1503,I,66
+criticism,qualities,eloquence,Hawes,[1503-4],I,66
+criticism,qualities,eloquence,Bradshaw,1513,I,71
+criticism,qualities,eloquence,Douglas,1513,I,71-72
+criticism,qualities,eloquence,Skelton,1523,I,74
+criticism,qualities,eloquence,Unknown,[1525?],I,75
+criticism,qualities,eloquence,Grange,1577,I,107
+criticism,qualities,happinessCheerfulness,Spenser,1590-96,I,133
+criticism,qualities,happinessCheerfulness,Dekker,[1607],I,178
+criticism,qualities,happinessCheerfulness,Coleridge,1817,II,85
+criticism,qualities,happinessCheerfulness,Coleridge,1834,II,190
+criticism,qualities,happinessCheerfulness,Unknown,1842,II,246
+criticism,qualities,happinessCheerfulness,Furnivall,1873,III,114
+criticism,qualities,happinessCheerfulness,Swinburne,1880,III,131-132
+criticism,qualities,observationCharacter,R. Ascham,1552,I,91
+criticism,qualities,observationCharacter,Dryden,1700,I,278-279
+criticism,qualities,observationCharacter,Hughes,1715,I,340
+criticism,qualities,observationCharacter,Jacob,1720,I,349
+criticism,qualities,observationCharacter,Ogle,1739,I,385-386
+criticism,qualities,observationCharacter,Astrophil,1740,I,387-388
+criticism,qualities,observationCharacter,Warton,1774,I,440
+criticism,qualities,observationCharacter,Blake,1809,II,42-46
+criticism,qualities,observationCharacter,D’Israeli,1841,II,231
+criticism,qualities,observationCharacter,Hunt,[n.a. 1849],II,279
+criticism,qualities,observationCharacter,Milman,1855,III,24-25
+criticism,qualities,observationCharacter,Hales,1873,III,115
+criticism,qualities,wantSublimitySeriousness,Rymer,1674,I,249
+criticism,qualities,wantSublimitySeriousness,Unknown,1839,II,226
+criticism,qualities,wantSublimitySeriousness,C. B.,1818,II,94
+criticism,qualities,wantSublimitySeriousness,Hallam,1818,II,97
+criticism,qualities,wantSublimitySeriousness,Unknown,1839,II,228
+criticism,qualities,wantSublimitySeriousness,Thoreau,1843,II,251
+criticism,qualities,wantSublimitySeriousness,Ampère,1867,V,82
+criticism,qualities,wantSublimitySeriousness,Lowell,1870,III,108
+criticism,qualities,wantSublimitySeriousness,Unknown,1873,III,117
+criticism,qualities,wantSublimitySeriousness,Arnold,1880,III,128
+criticism,qualities,wantSublimitySeriousness,Morris,1887,III,137-138
+criticism,qualities,wantSublimitySeriousness,Lounsbury,1891,III,141-142
+criticism,qualities,wantSublimitySeriousness,Legouis,1908,V,113-119
+criticism,qualities,brevity,Lydgate,1430,I,42
+criticism,qualities,brevity,Caxton,[c. 1483],I,61-62
+criticism,qualities,brevity,Rastell (?),[1520],I,73
+criticism,qualities,brevity,Tuke,1532,I,80
+criticism,qualities,universality,Unknown,1755,V,32-34
+criticism,qualities,universality,Unknown,1756,I,412
+criticism,qualities,universality,Roscoe,1824,II,152
+criticism,qualities,universality,Neele,1827,II,166
+criticism,qualities,universality,Hunt,1844,II,255
+criticism,qualities,universality,Marsh,1858-9,III,44
+criticism,qualities,heaviness,Unknown,1861,III,60
+criticism,qualities,learning,Hoccleve,1412,I,21
+criticism,qualities,learning,Tuke,1532,I,79
+criticism,qualities,learning,G. B.,1569,I,103
+criticism,qualities,learning,Foxe,1570,I,105
+criticism,qualities,learning,Holinshed,1577,I,114
+criticism,qualities,learning,Spenser,1579,I,118
+criticism,qualities,learning,Puttenham,[1584-8],I,125
+criticism,qualities,learning,Harvey,[c. 1585],I,127
+criticism,qualities,learning,Churchyard,1587,I,130
+criticism,qualities,learning,Unknown,1590,I,131-132
+criticism,qualities,learning,Hakluyt,1598,I,157
+criticism,qualities,learning,Thynne,1598,I,155
+criticism,qualities,learning,Speght,1598,I,147
+criticism,qualities,learning,Speght,1602,I,169
+criticism,qualities,learning,Harsnet,1603,I,173
+criticism,qualities,learning,Stowe,1603,I,174
+criticism,qualities,learning,Selden,1612,I,186
+criticism,qualities,learning,Freeman,1614,I,188
+criticism,qualities,learning,Basse,[c. 1622],I,196
+criticism,qualities,learning,Unknown,1622,I,198
+criticism,qualities,learning,Webster,1624,I,199
+criticism,qualities,learning,Milton,1641,I,221
+criticism,qualities,learning,E. G.,1646,I,225
+criticism,qualities,learning,Leigh,1656,I,232
+criticism,qualities,learning,Whitelock,[a. 1675],I,251
+criticism,qualities,learning,Wharton,[c. 1687],IV,79
+criticism,qualities,learning,Howard,1689,I,262
+criticism,qualities,learning,Dryden,1700,I,274
+criticism,qualities,learning,Hatton,1708,I,296
+criticism,qualities,learning,Grainger,1769,I,431
+criticism,qualities,learning,Henry,1781,I,460
+criticism,qualities,learning,Dyer,[1811],II,53
+criticism,qualities,learning,Nott,1815-16,II,77-80
+criticism,qualities,learning,Sandras,1859,V,69-74
+criticism,qualities,loveNature,Bossewell,1572,I,108-109
+criticism,qualities,loveNature,Dart,1721,I,358-359
+criticism,qualities,loveNature,Fox,1800,IV,102
+criticism,qualities,loveNature,Coleridge,1818,II,95
+criticism,qualities,loveNature,Hunt,1820,II,124-125
+criticism,qualities,loveNature,Hunt,1844,II,253
+criticism,qualities,loveNature,Drake,1828,II,168
+criticism,qualities,loveNature,Case,1854,III,16
+criticism,qualities,loveNature,Ruskin,1856,III,33-34
+criticism,qualities,loveNature,Wiseman,1855,III,29
+criticism,qualities,loveNature,Hunt,1859,III,49
+criticism,qualities,loveNature,Brooke,1871,III,111-112
+criticism,qualities,loveNature,Ward,1879,III,126
+criticism,qualities,loveNature,Morel,1895,V,102-104
+criticism,qualities,pathos,Unknown,1696,I,268
+criticism,qualities,pathos,Astrophil,1740,I,387
+criticism,qualities,pathos,Warton,1762,I,423
+criticism,qualities,pathos,Warton,1774,I,440
+criticism,qualities,pathos,Warton,1782,I,470
+criticism,qualities,pathos,Drake,1805,II,24
+criticism,qualities,pathos,Trotter,1811,II,56
+criticism,qualities,pathos,Hazlitt,1818,II,99
+criticism,qualities,pathos,Campbell,1819,II,112
+criticism,qualities,pathos,Scott,1829,II,176
+criticism,qualities,pathos,O'Sullivan,1830,V,44-45
+criticism,qualities,pathos,D’Israeli,1841,II,231
+criticism,qualities,pathos,Browning,1842,II,243
+criticism,qualities,pathos,Thoreau,1842,II,251
+criticism,qualities,pathos,Hunt,1843,II,254-256
+criticism,qualities,pathos,Furnivall,1873,III,113-114
+criticism,qualities,pathos,Hales,1873,III,116
+criticism,qualities,pathos,Arnold,1880,III,127
+criticism,qualities,pathos,Swinburne,1880,III,131
+criticism,qualities,prolixity,Pinkerton,1786,I,484
+criticism,qualities,prolixity,Campbell,1819,II,112
+criticism,qualities,prolixity,Unknown,1846,II,273
+criticism,qualities,prolixity,Smith,1862,III,65
+criticism,qualities,prolixity,Unknown,1873,III,117
+criticism,qualities,impiety,Dodd,1737,I,380
+criticism,qualities,impiety,Yart,1753-6,V,29-30
+criticism,qualities,impiety,Digby,1826,II,161
+criticism,qualities,indecencyFrivolity,Tyndale,1528,IV,11
+criticism,qualities,indecencyFrivolity,Becke,1549,I,88
+criticism,qualities,indecencyFrivolity,Cranmer,[1549 ?],I,88-89
+criticism,qualities,indecencyFrivolity,Latimer,1549,I,89
+criticism,qualities,indecencyFrivolity,Scott,1562,I,97
+criticism,qualities,indecencyFrivolity,Drant,1567,I,100
+criticism,qualities,indecencyFrivolity,Wharton,1575,I,111
+criticism,qualities,indecencyFrivolity,Procter,1578,I,116
+criticism,qualities,indecencyFrivolity,Fulke,1579,I,116
+criticism,qualities,indecencyFrivolity,Harington,1591,I,134
+criticism,qualities,indecencyFrivolity,Campion,[1617?],IV,65
+criticism,qualities,indecencyFrivolity,Jordan,1657,IV,72
+criticism,qualities,indecencyFrivolity,Dryden,1680-3,I,254-258
+criticism,qualities,indecencyFrivolity,Dryden,1700,I,279-280
+criticism,qualities,indecencyFrivolity,Montagu,[1713-14],I,329
+criticism,qualities,indecencyFrivolity,Pope,1737,I,383
+criticism,qualities,indecencyFrivolity,Yart,1753-6,V,29-30
+criticism,qualities,indecencyFrivolity,Cowper,1781,I,459
+criticism,qualities,indecencyFrivolity,Seward,1806,II,28
+criticism,qualities,indecencyFrivolity,Byron,1807,II,29
+criticism,qualities,indecencyFrivolity,Byron,1811,II,52
+criticism,qualities,indecencyFrivolity,Richman,[c. 1810],II,49
+criticism,qualities,indecencyFrivolity,Coleridge,1818,II,95
+criticism,qualities,indecencyFrivolity,Digby,1826,II,161
+criticism,qualities,indecencyFrivolity,Collier,1833,II,187
+criticism,qualities,indecencyFrivolity,Unknown,1841,II,241
+criticism,qualities,indecencyFrivolity,Wiseman,1855,III,29
+criticism,qualities,indecencyFrivolity,Fitzgerald,1856,III,29
+criticism,qualities,indecencyFrivolity,Whetstone,1576,I,113
+criticism,qualities,indecencyFrivolity,A.,1592,I,138
+criticism,qualities,indecencyFrivolity,Unknown,[1597],I,144-145
+criticism,qualities,indecencyFrivolity,Breton,1597,I,144
+criticism,qualities,indecencyFrivolity,Breton,1600,I,162
+criticism,qualities,indecencyFrivolity,Aπoδημoυvτόφιλoς,1611,I,185
+criticism,qualities,indecencyFrivolity,Melismata,1611,I,185
+criticism,qualities,indecencyFrivolity,Nashe,1592,I,135
+criticism,qualities,indecencyFrivolity,Phillips,1658,I,236
+criticism,qualities,indecencyFrivolity,Beaumont,1597,I,146-148
+criticism,qualities,indecencyFrivolity,Field,1811,II,54
+criticism,qualities,indecencyFrivolity,Lowell,1870,III,111
+criticism,qualities,indecencyFrivolity,Ward,1879,III,125
+criticism,qualities,artificiality,Seward,1806,II,28
+criticism,qualities,artificiality,Unknown,1877,III,122-123
+criticism,qualities,piety,Leland,[c. 1545],IV,13
+criticism,qualities,piety,Wharton,[c. 1687],IV,78-80
+criticism,qualities,piety,Astrophil,1740,I,387
+criticism,qualities,piety,Unknown,1775,V,35-36
+criticism,qualities,piety,Browning,1843,II,246
+criticism,qualities,piety,Lowell,1845,II,261
+criticism,qualities,piety,Lowell,1870,III,108-111
+criticism,qualities,piety,Milman,1865,III,24
+criticism,qualities,anticlericalism,Thynne,1542-3,I,149-155
+criticism,qualities,anticlericalism,Charteris,1568,I,102
+criticism,qualities,anticlericalism,Foxe,1570,I,104-107
+criticism,qualities,anticlericalism,Humphrey,1582,I,122
+criticism,qualities,anticlericalism,Scot,1584,I,124-125
+criticism,qualities,anticlericalism,Harsnet,1603,I,173
+criticism,qualities,anticlericalism,Powel,[1604],I,174
+criticism,qualities,anticlericalism,Fuller,1655,I,230
+criticism,qualities,anticlericalism,Dryden,1700,I,278
+criticism,qualities,anticlericalism,Hearne,1709,I,307-308
+criticism,qualities,anticlericalism,Dodd,1737,I,380
+criticism,qualities,anticlericalism,Unknown,1823,II,148
+criticism,qualities,anticlericalism,Lytton,1826,II,163
+criticism,qualities,anticlericalism,Gomont,1847,V,55-60
+criticism,qualities,anticlericalism,Milman,1855,III,25
+criticism,qualities,humourWit,Stevins,[c. 1555],I,92-93
+criticism,qualities,humourWit,Robinson,[1574],I,109
+criticism,qualities,humourWit,'Simon Smel-Knave',[1591?],I,134
+criticism,qualities,humourWit,R. Hakluyt,1598,I,157
+criticism,qualities,humourWit,S. Pick,1638,I,219
+criticism,qualities,humourWit,Phillips,1675,I,250
+criticism,qualities,humourWit,Evelyn,1685,I,258
+criticism,qualities,humourWit,Unknown,1673,I,266
+criticism,qualities,humourWit,Addison,1694,I,266
+criticism,qualities,humourWit,S. Cobb,[a. 1700],I,271
+criticism,qualities,humourWit,Gay,1712,I,319
+criticism,qualities,humourWit,Croxall,1715,I,337
+criticism,qualities,humourWit,Jacob,1720,I,349
+criticism,qualities,humourWit,Madan,1721,I,362
+criticism,qualities,humourWit,Astrophil,1740,I,387
+criticism,qualities,humourWit,Warton,1754,I,409-410
+criticism,qualities,humourWit,Dalrymple(?),1761,I,421
+criticism,qualities,humourWit,Percy,1765,I,427
+criticism,qualities,humourWit,Unknown,1772,I,437
+criticism,qualities,humourWit,Warton,1774,I,440
+criticism,qualities,humourWit,Burney,1782,I,465
+criticism,qualities,humourWit,Bell(?),[c. 1785],I,480-481
+criticism,qualities,humourWit,White,1789,IV,98
+criticism,qualities,humourWit,R. H.,1820,II,122-123
+criticism,qualities,humourWit,Hunt,1846,II,269-271
+criticism,qualities,humourWit,Hertzberg,1856,V,144
+criticism,qualities,humourWit,Swinburne,1880,III,131
+criticism,qualities,moralPurposeSatire,Shirley,[c. 1450],I,49
+criticism,qualities,moralPurposeSatire,Hawes,1506,I,67
+criticism,qualities,moralPurposeSatire,Ascham,1544,I,85-86
+criticism,qualities,moralPurposeSatire,Northbrooke,1577,I,115
+criticism,qualities,moralPurposeSatire,Lodge,1579,I,117
+criticism,qualities,moralPurposeSatire,Babington,1583,I,124
+criticism,qualities,moralPurposeSatire,Webbe,1586,I,129
+criticism,qualities,moralPurposeSatire,Beaumont,1597,I,146
+criticism,qualities,moralPurposeSatire,Harsnet,1603,I,173
+criticism,qualities,moralPurposeSatire,Fletcher,[1613?],I,187
+criticism,qualities,moralPurposeSatire,Prynne,1633,I,206
+criticism,qualities,moralPurposeSatire,Unknown,1691,I,263
+criticism,qualities,moralPurposeSatire,Dart,1720,I,360
+criticism,qualities,moralPurposeSatire,Unknown,1775,V,35-36
+criticism,qualities,moralPurposeSatire,Hazlitt,1826,II,161
+criticism,qualities,moralPurposeSatire,Lowell,1870,III,111
+criticism,qualities,moralPurposeSatire,Ward,1879,III,125
+criticism,qualities,facility,Landor,1811,IV,103-104
+criticism,qualities,facility,Lowell,1870,III,110
+criticism,qualities,facility,Lounsbury,1891,III,143
+criticism,qualities,realism,Unknown,1477,I,57
+criticism,qualities,realism,Beaumont,1597,I,146
+criticism,qualities,realism,Dryden,1700,I,274-276
+criticism,qualities,realism,Dart,1721,I,361
+criticism,qualities,realism,Pope,1728-30,I,370
+criticism,qualities,realism,Morell,1737,I,382
+criticism,qualities,realism,Bancks,1738,I,383
+criticism,qualities,realism,Thomson,1744,I,391
+criticism,qualities,realism,Warton,1774,I,440
+criticism,qualities,realism,Greene,1782,I,466
+criticism,qualities,realism,Crabbe,1812,II,57-58
+criticism,qualities,realism,Hazlitt,1817,II,87-89
+criticism,qualities,realism,Campbell,1819,II,113
+criticism,qualities,realism,Keats,1819,II,118
+criticism,qualities,realism,Hippisley,1837,II,216
+criticism,qualities,realism,Hunt,1844,II,255
+criticism,qualities,realism,Unknown,1845,II,266-267
+criticism,qualities,realism,Unknown,1849,II,281-282
+criticism,qualities,realism,Edgar,1852,III,9
+criticism,qualities,realism,Smith,[n.a. 1863],III,71
+criticism,qualities,realism,Lowell,1870,III,109
+criticism,qualities,realism,Green,1874,III,118-119
+criticism,qualities,realism,Ward,1879,III,125-126
+criticism,qualities,realism,Lounsbury,1891,III,141
+criticism,qualities,sublimity,Usk,[c. 1387],I,8
+criticism,qualities,sublimity,Harvey,1593,I,140
+criticism,qualities,sublimity,Yart,1753-6,V,29-30
+criticism,qualities,sublimity,Warton,1762,I,423
+criticism,qualities,sublimity,Lamb,1820,II,127
+criticism,qualities,originality,Lowell,1871,III,111
+criticism,comparisons,cavendish,Cavendish,1664,IV,74
+criticism,comparisons,marot,Rogers,[c. 1570],I,107
+criticism,comparisons,marot,Feller,1791,V,37
+criticism,comparisons,marot,Cary,1821-4,II,131-132
+criticism,comparisons,browning,Landor,1846,II,273
+criticism,comparisons,dryden,Wordsworth,1805,II,26
+criticism,comparisons,dryden,Unknown,1855,III,28
+criticism,comparisons,morris,Swinburne,1867,III,94
+criticism,comparisons,dunbar,Pinkerton,1786,I,484
+criticism,comparisons,dunbar,Irving,1804,II,15
+criticism,comparisons,dunbar,Drake,1828,II,168
+criticism,comparisons,dunbar,Scott,1829,II,176
+criticism,comparisons,dunbar,Scott,1830,II,179
+criticism,comparisons,ramsay,Tytler,1800,I,504
+criticism,comparisons,henryMinstrel,Irving,1804,II,15
+criticism,comparisons,spenser,Thynne,1600,I,166
+criticism,comparisons,spenser,Fitzgeffrey,1601,I,167
+criticism,comparisons,spenser,R. R.,1605,I,176
+criticism,comparisons,spenser,Hughes,1715,I,340
+criticism,comparisons,spenser,Thompson,1745,I,391-392
+criticism,comparisons,spenser,Southey,1811,II,55
+criticism,comparisons,spenser,Landor,1811,IV,103
+criticism,comparisons,spenser,Landor,[n.a. 1841],II,239
+criticism,comparisons,spenser,Hazlitt,1818,II,98
+criticism,comparisons,spenser,Hazlitt,1826,II,161-162
+criticism,comparisons,laFontaine,Jusserand,1878,V,85
+criticism,comparisons,hogarth,Bancks,1738,I,383
+criticism,comparisons,hogarth,Lamb,1811,II,54
+criticism,comparisons,ossian,Thoreau,1843,II,250
+criticism,comparisons,cicero,Bale,1562,IV,28
+criticism,comparisons,boccaccio,Rogers,[c. 1570],I,107
+criticism,comparisons,boccaccio,Dryden,1700,I,272-286
+criticism,comparisons,boccaccio,Dunlop,1814,II,61-63
+criticism,comparisons,boccaccio,Macaulay,1815,II,72
+criticism,comparisons,boccaccio,Gomont,1847,V,55-60
+criticism,comparisons,lydgate,Lawson,1581,I,120-121
+criticism,comparisons,chatterton,Unknown,1822,V,43
+criticism,comparisons,ovid,Dryden,1700,I,272-276
+criticism,comparisons,ovid,Brown,[a. 1704],I,291-292
+criticism,comparisons,gower,Pymlico,1609,I,184
+criticism,comparisons,gower,Turner,1825,II,158
+criticism,comparisons,skelton,Pymlico,1609,I,184
+criticism,comparisons,ennius,Googe,1565,IV,34
+criticism,comparisons,ennius,Hakluyt,1598,I,157
+criticism,comparisons,ennius,Dryden,1697,I,269
+criticism,comparisons,ennius,Wesley,1700,I,289
+criticism,comparisons,ennius,Hughes,[c. 1707],I,294
+criticism,comparisons,ennius,Ruddiman,1710,I,313
+criticism,comparisons,howell,Keeper,1568,I,102
+criticism,comparisons,homer,Leland,[c. 1545],IV,15
+criticism,comparisons,homer,Camden,1586,I,128
+criticism,comparisons,homer,Vulcanius,1586,IV,187
+criticism,comparisons,homer,Unknown,1830,II,179-180
+criticism,comparisons,homer,De Quincey,1838-9,II,221
+criticism,comparisons,homer,De Quincey,1841,II,229-230
+criticism,comparisons,homer,Unknown,1842,II,246
+criticism,comparisons,homer,Arnold,1861-2,III,54-55
+criticism,comparisons,beaumont,Earle,[1616],I,192
+criticism,comparisons,dante,Unknown,1842,II,246
+criticism,comparisons,dante,Swinburne,1880,III,131-132
+criticism,comparisons,pope,Hazlitt,1821,II,132-133
+criticism,comparisons,ruizHita,Ticknor,1849,II,280
+criticism,comparisons,burns,Drake,1828,II,168
+criticism,comparisons,burns,Landor,1846,II,272
+criticism,comparisons,burns,Arnold,1880,III,130
+criticism,comparisons,wyatt,Surrey,[1542],I,84
+criticism,comparisons,villon,Swinburne,1880,III,131-132
+criticism,comparisons,keats,Landor,1846,II,272
+criticism,comparisons,keats,Landor,1848,II,278
+criticism,comparisons,crabbe,Lowell,1845,II,261
+criticism,comparisons,meistersinger,Herder,1777,V,133-134
+criticism,comparisons,shakespeare,Hazlitt,1817,II,87-89
+criticism,comparisons,shakespeare,Hazlitt,1818,II,105
+criticism,comparisons,shakespeare,Coleridge,1834,II,190
+criticism,comparisons,shakespeare,FitzGerald,1859,III,49
+criticism,comparisons,shakespeare,Hales,1873,III,115-116
+criticism,comparisons,varro,Carew,[1595-6?],I,142
+criticism,verse,thoughtIrregular,Bodenham,1600,I,161-162
+criticism,verse,thoughtIrregular,Dryden,1700,I,276-277
+criticism,verse,thoughtIrregular,S. Wesley,1700,I,289
+criticism,verse,thoughtIrregular,Unknown,1707,I,295
+criticism,verse,thoughtIrregular,Hughes,1715,I,341
+criticism,verse,thoughtIrregular,Dart,1721,I,360
+criticism,verse,thoughtIrregular,Bodmer,1743,V,133
+criticism,verse,thoughtIrregular,Lloyd,1751,I,402
+criticism,verse,thoughtIrregular,Cibber,1753,I,406-407
+criticism,verse,thoughtIrregular,Dalrymple (?),1761,I,421
+criticism,verse,thoughtIrregular,Unknown,1777,I,448
+criticism,verse,thoughtIrregular,Unknown,1778,I,453
+criticism,verse,thoughtIrregular,Unknown,1780,I,459
+criticism,verse,thoughtIrregular,Alves,1794,I,495
+criticism,verse,thoughtIrregular,Seward,1798,I,500
+criticism,verse,thoughtIrregular,Byron,1811,II,52
+criticism,verse,thoughtIrregular,Suard,1813,V,40-41
+criticism,verse,thoughtIrregular,Landor,1861,III,57
+criticism,verse,couplet,Arnold,1863,III,67
+criticism,verse,praised,Metham,1448-9,I,47
+criticism,verse,praised,Henryson,1475,I,56
+criticism,verse,praised,Tuke,1532,I,79-80
+criticism,verse,praised,Puttenham,[1584-8],I,126
+criticism,verse,praised,Speght,1602,I,169
+criticism,verse,praised,Dekker,[1607],I,179
+criticism,verse,praised,Yalden,1693,I,266
+criticism,verse,praised,Pinkerton,1786,I,485
+criticism,verse,praised,Neve,1789,I,489
+criticism,verse,praised,Unknown,1707,I,295
+criticism,verse,praised,Urry,1721,I,357
+criticism,verse,praised,Morell,1737,I,381-382
+criticism,verse,praised,Cibber,1753,I,406
+criticism,verse,praised,Gray,[1760-1?],I,418-421
+criticism,verse,praised,Warton,1774,I,440
+criticism,verse,praised,Tyrwhitt,1775,I,442-446
+criticism,verse,praised,Henry,1781,I,460
+criticism,verse,praised,Tytler,1783,I,475
+criticism,verse,praised,Unknown,1816,II,85
+criticism,verse,praised,Coleridge,1817,II,85-87
+criticism,verse,praised,Coleridge,1834,II,190-191
+criticism,verse,praised,Campbell,1819,II,111
+criticism,verse,praised,Hunt,1823,II,144-145
+criticism,verse,praised,Hunt,1832,II,185
+criticism,verse,praised,Hunt,1835,II,196
+criticism,verse,praised,Cunningham,1835,II,194-195
+criticism,verse,praised,Guest,1838,II,222-224
+criticism,verse,praised,Behnsch,1853,V,143
+criticism,verse,praised,Landor,1856,III,30
+criticism,verse,praised,Rulwer,1860,III,53
+criticism,verse,praised,Craik,1861,III,56
+criticism,verse,praised,Lowell,1870,III,109
+criticism,verse,praised,Arnold,1880,III,127-128
+criticism,verse,praised,Baret,1883,V,88-89
+criticism,verse,praised,Coote,1883,III,133-134
+criticism,verse,stanza,Thompson,1757,IV,109
+criticism,verse,decried,Unknown,1855,III,28
+criticism,verse,alliteration,Lindner,1873,V,148
+criticism,verse,finalE,Morell,1737,I,382
+criticism,verse,finalE,Gray,[1760-1?],I,419
+criticism,verse,finalE,Tyrwhitt,1775,I,443
+criticism,verse,finalE,Coleridge,1817,II,86
+criticism,verse,finalE,Guest,1838,II,222
+criticism,verse,finalE,Clough,1854,III,17
+criticism,verse,miscellaneous,Schipper,1881-8,V,150
+criticism,verse,miscellaneous,Paul,1893,V,152
+criticism,verse,miscellaneous,ten Brink,1884,V,150
+criticism,verse,miscellaneous,Freudenberger,1889,V,151
+criticism,verse,miscellaneous,Crow,1892,V,152
+criticism,verse,miscellaneous,Bischoff,1897,V,152
+criticism,verse,miscellaneous,Hampel,1898,V,152
+criticism,verse,thoughtRhythmical,Gascoigne,1575,I,110
+criticism,verse,thoughtRhythmical,Farmer,1767,I,430
+criticism,verse,thoughtRhythmical,Coleridge,1803,II,11-12
+criticism,verse,thoughtRhythmical,Southey,1803,II,11-12
+criticism,verse,thoughtRhythmical,Southey,1807,II,34
+criticism,verse,thoughtRhythmical,Southey,1831,II,183
+criticism,verse,thoughtRhythmical,Southey,1836,II,206-207
+criticism,verse,thoughtRhythmical,Nott,1815-16,II,73-77
+criticism,verse,thoughtRhythmical,D’Israeli,1841,II,232
+criticism,verse,thoughtRhythmical,Weymouth,1862,III,66
+criticism,verse,ridingRhyme,Gascoigne,1575,I,111
+criticism,verse,ridingRhyme,Puttenham,[1584-8],I,126
+criticism,verse,ridingRhyme,Thynne,1600,I,166
+criticism,verse,ridingRhyme,Gray,[1760-1?],I,420
+criticism,verse,ridingRhyme,Guest,1838,II,223
+criticism,language,pronunciation,Gray,[1760-1],I,418-421
+criticism,language,pronunciation,Unknown,1771,I,436-437
+criticism,language,pronunciation,Tyrwhitt,1778,I,444-445
+criticism,language,pronunciation,Adams,1799,I,501
+criticism,language,pronunciation,Ellis,1869-89,III,97-98
+criticism,language,importationDenied,Betham,1544,I,86
+criticism,language,importationDenied,Nashe,1592,I,136
+criticism,language,importationDenied,Johnson,1755,I,410-411
+criticism,language,importationDenied,Tyrwhitt,1775,I,442-443
+criticism,language,importationDenied,Warton,1778,I,454
+criticism,language,importationDenied,Pinkerton,1786,I,484
+criticism,language,importationDenied,Campbell,1819,II,111
+criticism,language,importationDenied,Craik,1851,III,1
+criticism,language,importationDenied,Marsh,1862,III,63
+criticism,language,importationDenied,Marsh,1858-9,III,44
+criticism,language,monosyllables,Elstob,1715,I,338
+criticism,language,refiningEnglish,Lydgate,[1400],I,14-15
+criticism,language,refiningEnglish,Lydgate,[c. 1400],I,15
+criticism,language,refiningEnglish,Lydgate,[c. 1401],I,15
+criticism,language,refiningEnglish,Lydgate,[1402-3],I,15-16
+criticism,language,refiningEnglish,Lydgate,[c. 1403?],I,16-17
+criticism,language,refiningEnglish,Lydgate,[1403?],I,17-18
+criticism,language,refiningEnglish,Lydgate,[1409-10?],I,19-20
+criticism,language,refiningEnglish,Lydgate,[1412-20],I,23-25
+criticism,language,refiningEnglish,Lydgate,1430,I,36-43
+criticism,language,refiningEnglish,Hoccleve,1412,I,21-22
+criticism,language,refiningEnglish,Caxton,[a. 1479],I,58
+criticism,language,refiningEnglish,Caxton,[c. 1483 ?],I,62
+criticism,language,refiningEnglish,Dunbar,1503,I,66
+criticism,language,refiningEnglish,Skelton,[1507?],I,69
+criticism,language,refiningEnglish,Skelton,1523,I,74
+criticism,language,refiningEnglish,Bradshaw,1513,I,71
+criticism,language,refiningEnglish,Rastell (?),[1520],I,73
+criticism,language,refiningEnglish,Copland,1530,I,77
+criticism,language,refiningEnglish,Tuke,1532,I,79-80
+criticism,language,refiningEnglish,Leland,[c. 1545],IV,14
+criticism,language,refiningEnglish,Braham,1555,I,93
+criticism,language,refiningEnglish,Gascoigne,1576,I,112
+criticism,language,refiningEnglish,Holinshed,1577,I,114
+criticism,language,refiningEnglish,Kirke,1579,I,117
+criticism,language,refiningEnglish,Sidney,[1581?],I,121
+criticism,language,refiningEnglish,Webbe,1586,I,129
+criticism,language,refiningEnglish,Spenser,1590-6,I,133
+criticism,language,refiningEnglish,Beaumont,1597,I,145
+criticism,language,refiningEnglish,Wharton,1652,I,228
+criticism,language,refiningEnglish,Fuller,1655,I,230
+criticism,language,refiningEnglish,Phillips,1675,I,250
+criticism,language,refiningEnglish,Rymer,1692,I,265
+criticism,language,refiningEnglish,Blount,1694,I,267
+criticism,language,refiningEnglish,Unknown,1707,I,295
+criticism,language,refiningEnglish,Lewis,1737,I,380
+criticism,language,refiningEnglish,Burke,1796,I,498
+criticism,language,refiningEnglish,Wordsworth,1800,IV,102
+criticism,language,refiningEnglish,Southey,1831,II,183
+criticism,language,refiningEnglish,Hippisley,1837,II,216
+criticism,language,refiningEnglish,Unknown,1837,II,220
+criticism,language,refiningEnglish,Case,1854,III,15-16
+criticism,language,refiningEnglish,Landor,[c. 1861],III,57
+criticism,language,obsoleteRude,Skelton,[1507?],I,69
+criticism,language,obsoleteRude,Surrey,[c. 1542],I,84
+criticism,language,obsoleteRude,Ashton,1546,I,87
+criticism,language,obsoleteRude,Wilson,1553,I,91
+criticism,language,obsoleteRude,Sidney,1581,I,122
+criticism,language,obsoleteRude,Hall,1576,I,112
+criticism,language,obsoleteRude,Melbancke,1583,IV,107
+criticism,language,obsoleteRude,Puttenham,[1584-8],I,126
+criticism,language,obsoleteRude,Webbe,1586,I,129
+criticism,language,obsoleteRude,Spenser,1590-6,I,133
+criticism,language,obsoleteRude,Greenwood,1594,I,41
+criticism,language,obsoleteRude,Covell,1595,I,142
+criticism,language,obsoleteRude,Dallington,1598,I,156
+criticism,language,obsoleteRude,Marston,1598,I,158
+criticism,language,obsoleteRude,Speght,1598,I,147-148
+criticism,language,obsoleteRude,Daniel,1599,I,160
+criticism,language,obsoleteRude,Middleton,[1613?],I,187
+criticism,language,obsoleteRude,Bolton,[1618?],I,192
+criticism,language,obsoleteRude,Jonson,[1620-35?],I,193-194
+criticism,language,obsoleteRude,Peacham,1622,I,197
+criticism,language,obsoleteRude,Earle,1628,I,201
+criticism,language,obsoleteRude,Sidnam,[c. 1630],I,203
+criticism,language,obsoleteRude,Kynaston,1635,I,207
+criticism,language,obsoleteRude,Barker,1635,I,207
+criticism,language,obsoleteRude,Foulis,1635,I,211
+criticism,language,obsoleteRude,Daniel,1646,I,224
+criticism,language,obsoleteRude,Brathwait,1665,I,242
+criticism,language,obsoleteRude,Cowley,[n.a. 1667],IV,75
+criticism,language,obsoleteRude,Waller,1668,I,244
+criticism,language,obsoleteRude,Culpeper,1671,I,247-248
+criticism,language,obsoleteRude,Phillips,1675,I,250
+criticism,language,obsoleteRude,Dryden,1679,I,254
+criticism,language,obsoleteRude,Dryden,1697,I,269
+criticism,language,obsoleteRude,Dryden,1700,I,282
+criticism,language,obsoleteRude,Howard,1689,I,262
+criticism,language,obsoleteRude,Addison,1694,I,266
+criticism,language,obsoleteRude,Blount,1694,I,267
+criticism,language,obsoleteRude,Hughes,c. 1707],I,294
+criticism,language,obsoleteRude,Hughes,1715,I,340-341
+criticism,language,obsoleteRude,Bysshe,1702,I,290
+criticism,language,obsoleteRude,Brown,[a. 1704],I,291
+criticism,language,obsoleteRude,Pope,[1709],I,310-311
+criticism,language,obsoleteRude,Dennis,[1711],I,314-315
+criticism,language,obsoleteRude,Nicols,1711,I,317
+criticism,language,obsoleteRude,Oldmixon,[1712?],I,322-333
+criticism,language,obsoleteRude,King,1712,IV,82
+criticism,language,obsoleteRude,Unknown,1730,I,373
+criticism,language,obsoleteRude,Unknown,1731,I,373
+criticism,language,obsoleteRude,Dalrymple (?),1761,I,421
+criticism,language,obsoleteRude,Unknown,1763,I,424
+criticism,language,obsoleteRude,Unknown,1772,I,437
+criticism,language,obsoleteRude,Knox,1779,I,457-458
+criticism,language,obsoleteRude,Hayley,1782,I,466
+criticism,language,obsoleteRude,Beattie,1783,I,473
+criticism,language,obsoleteRude,Seward,1792,I,494
+criticism,language,obsoleteRude,Ω,1804,II,23
+criticism,language,obsoleteRude,Irving,1807,II,30
+criticism,language,obsoleteRude,Southey,1811,II,55
+criticism,language,obsoleteRude,Hippisley,1837,II,216
+criticism,language,obsoleteRude,Halliwell-Phillipps,1847,II,274
+criticism,language,obsoleteRude,B.,1859,III,48-49
+criticism,language,obsoleteRude,Amold,1861-2,III,54-55
+criticism,language,,Jonson,1640,IV,70
+criticism,language,,Coles,1676,IV,77
+criticism,language,,Gibson,1691,IV,80-81
+criticism,language,,Welsted,1724,I,367
+criticism,language,,Morell,1737,I,381-382
+criticism,language,,Gray,[1760-1?],I,418-421
+criticism,language,,Tyrwhitt,1775,I,442-446
+criticism,language,,Horne-Tooke,1786,I,486
+criticism,language,,Cassander,1790,I,490-491
+criticism,language,,Ellis,1801,II,1
+criticism,language,,Sherwen,1811,II,55
+criticism,language,,Boucher,1832,II,184
+criticism,language,,Hunter,1832,II,185
+criticism,language,,Guest,1842,II,244
+criticism,language,,Craik,1851,III,1
+criticism,language,,F. M. N.,1852-3,III,10
+criticism,language,,Case,1854,III,15-17
+criticism,language,,Edman,1861,III,56
+criticism,language,,Child,1862,III,61-62
+criticism,language,,Marsh,1862,III,63-64
+criticism,language,,Baret,1883,V,88-89
+criticism,language,,Brink,1884,V,150
+criticism,language,,Einenkel,1887,V,150
+criticism,language,,Morsbach,1893,V,152
+criticism,language,,Manly,1890,III,139
+criticism,language,,Kittredge,1894,III,148
+criticism,language,importationMinimised,Tooke,1647,I,225
+criticism,language,importationMinimised,Fuller,1655,I,230
+criticism,language,importationMinimised,Oldham,1681,I,256
+criticism,language,importationMinimised,Unknown,1748,I,395-396
+criticism,language,importationMinimised,Unknown,1850,II,287
+criticism,language,importationMinimised,Trench,1855,III,28
+criticism,language,importationMinimised,Baynes,1870,III,107
+criticism,language,corruptedEnglish,Chapman,1598,I,156
+criticism,language,corruptedEnglish,Verstegan,1605,I,176
+criticism,language,corruptedEnglish,Gil,1619,I,193
+criticism,language,corruptedEnglish,Phillips,1658,I,236
+criticism,language,corruptedEnglish,Skinner,[a. 1667],I,243
+criticism,language,corruptedEnglish,Rymer,1692,I,265
+criticism,language,corruptedEnglish,Dryden,1700,I,273
+criticism,language,corruptedEnglish,Unknown,1824,II,155
+criticism,language,corruptedEnglish,Pope,[1734-6],I,377
+criticism,language,corruptedEnglish,Oldys,1738,I,384
+criticism,language,corruptedEnglish,[Le Blanc,1745,V,24
+criticism,language,corruptedEnglish,Percy,1765,I,427
+criticism,language,corruptedEnglish,Warton,1778,I,454
+criticism,language,corruptedEnglish,Unknown,1778,I,451
+criticism,language,corruptedEnglish,Whitaker,1805,II,25
+criticism,language,corruptedEnglish,Baret,1883,V,88-89
+criticism,language,corruptedEnglish,Thommerel,1841,V,53-54
+criticism,language,corruptedEnglish,Jusserand,1893,V,96-97
+criticism,language,dialects,Gaskell,1848,IV,106
+criticism,language,dialects,Part,1867,III,93
+criticism,language,dialects,E.G.R. in N. and Q.,1856,III,32
+criticism,language,dialects,Garnett,1836,II,205
+criticism,language,notObsoleteRude,Skelton,1507,I,69
+criticism,language,notObsoleteRude,Beaumont,1597,I,145-146
+criticism,language,notObsoleteRude,Cokayne,1658,I,236
+criticism,language,notObsoleteRude,Pinkerton,1785,I,478-479
+criticism,language,notObsoleteRude,Hunt,1823,II,144-145
+criticism,language,notObsoleteRude,Coleridge,1834,II,190-191
+criticism,language,importationMinimised,Warton,1778,I,454-455
+criticism,general,,Taine,1862,V,76
+criticism,general,,Gebhart,1908,V,109-111
