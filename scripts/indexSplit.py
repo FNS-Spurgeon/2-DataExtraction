@@ -1,7 +1,7 @@
 import csv
 import os
 
-folder = "../index/index-txt/manuscripts"
+folder = "../index/index-txt/chaucer"
 infoList = []
 
 for subdir, dirs, files in os.walk(folder):  # We parse the directories
@@ -36,7 +36,7 @@ for subdir, dirs, files in os.walk(folder):  # We parse the directories
 
 # The list is transformed into a CSV file corresponding to the main category
 fields = ['main_category', 'subcategory', 'sub_subcategory', 'author_name', 'date', 'volume', 'page']
-with open('manuscripts.csv', 'w', newline='') as c:
+with open('bookTitles.csv', 'w', newline='') as c:
     writer = csv.writer(c)
     writer.writerow(fields)
     writer.writerows(infoList)
