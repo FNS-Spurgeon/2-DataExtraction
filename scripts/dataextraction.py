@@ -2,7 +2,7 @@ import re
 import os
 import csv
 
-txtFolder = "../allusions/vol2-allusions/1876-1900-allusions"
+txtFolder = "../allusions/supplement"
 
 # Regular expressions
 dateRegEx = r'(^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?\.?|^\[?([nac]\.)+\s\d{4}-?(\d{1,2})?[\.?]?\]?\.?|^\[\d{2}\]\d{2}\.)(\s[?[A-Z])'
@@ -24,8 +24,8 @@ for txt in sorted(os.listdir(txtFolder)):
       # print(txtFile)
 
       ID = re.split(r'/', label)[-1]
-      volume = "Vol.2"
-      part = "part III"
+      volume = "Supplement"
+      part = ""
       page = re.split(r'_', ID)[1]
 
       # pageNb_head = re.search(r'^\d*\s|\s\d*$', txtFile, flags=re.M)
@@ -61,7 +61,7 @@ print(allusionsList)
 
 # We create a CSV file from the list
 fields = ['ID', 'Volume', 'Part','Page', 'Date', 'Author', 'Title','Quotation']
-with open('vol2-1876-1900-allusions.csv', 'w', newline='') as c:
+with open('supplement1-allusions.csv', 'w', newline='') as c:
     writer = csv.writer(c)
     writer.writerow(fields)
     writer.writerows(allusionsList)
