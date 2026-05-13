@@ -68,7 +68,7 @@ criticism,general,,Lounsbury,1891,III,140-144
 criticism,general,,Pollard,1893,III,144-145
 criticism,general,,Jusserand,1894,V,97-100
 criticism,general,,Jusserand,1896,V,104-106
-criticism,general,,Ker,1895,III,148-50
+criticism,general,,Ker,1895,III,148-150
 criticism,general,,Gebhart,1907,V,107-109
 criticism,general,,Legouis,1908,V,113-119
 criticism,qualities,eloquence,Lydgate,[1400],I,14-15
@@ -204,7 +204,7 @@ criticism,qualities,pathos,Hunt,1843,II,254-256
 criticism,qualities,pathos,Furnivall,1873,III,113-114
 criticism,qualities,pathos,Hales,1873,III,116
 criticism,qualities,pathos,Arnold,1880,III,127
-criticism,qualities,pathos,Swinburne,1880,III,131
+criticism,qualities,pathos,Swinburne,1880,III,131-132
 criticism,qualities,prolixity,Pinkerton,1786,I,484
 criticism,qualities,prolixity,Campbell,1819,II,112
 criticism,qualities,prolixity,Unknown,1846,II,273
@@ -253,7 +253,7 @@ criticism,qualities,indecencyFrivolity,Phillips,1658,I,236
 criticism,qualities,indecencyFrivolity,Beaumont,1597,I,146-148
 criticism,qualities,indecencyFrivolity,Field,1811,II,54
 criticism,qualities,indecencyFrivolity,Lowell,1870,III,111
-criticism,qualities,indecencyFrivolity,Ward,1879,III,125
+criticism,qualities,indecencyFrivolity,Ward,1879,III,124-126
 criticism,qualities,artificiality,Seward,1806,II,28
 criticism,qualities,artificiality,Unknown,1877,III,122-123
 criticism,qualities,piety,Leland,[c. 1545],IV,13
@@ -305,7 +305,7 @@ criticism,qualities,humourWit,White,1789,IV,98
 criticism,qualities,humourWit,R. H.,1820,II,122-123
 criticism,qualities,humourWit,Hunt,1846,II,269-271
 criticism,qualities,humourWit,Hertzberg,1856,V,144
-criticism,qualities,humourWit,Swinburne,1880,III,131
+criticism,qualities,humourWit,Swinburne,1880,III,131-132
 criticism,qualities,moralPurposeSatire,Shirley,[c. 1450],I,49
 criticism,qualities,moralPurposeSatire,Hawes,1506,I,67
 criticism,qualities,moralPurposeSatire,Ascham,1544,I,85-86
@@ -322,10 +322,10 @@ criticism,qualities,moralPurposeSatire,Dart,1720,I,360
 criticism,qualities,moralPurposeSatire,Unknown,1775,V,35-36
 criticism,qualities,moralPurposeSatire,Hazlitt,1826,II,161
 criticism,qualities,moralPurposeSatire,Lowell,1870,III,111
-criticism,qualities,moralPurposeSatire,Ward,1879,III,125
+criticism,qualities,moralPurposeSatire,Ward,1879,III,124-126
 criticism,qualities,facility,Landor,1811,IV,103-104
 criticism,qualities,facility,Lowell,1870,III,110
-criticism,qualities,facility,Lounsbury,1891,III,143
+criticism,qualities,facility,Lounsbury,1891,III,140-144
 criticism,qualities,realism,Unknown,1477,I,57
 criticism,qualities,realism,Beaumont,1597,I,146
 criticism,qualities,realism,Dryden,1700,I,274-276
@@ -348,8 +348,8 @@ criticism,qualities,realism,Edgar,1852,III,9
 criticism,qualities,realism,Smith,[n.a. 1863],III,71
 criticism,qualities,realism,Lowell,1870,III,109
 criticism,qualities,realism,Green,1874,III,118-119
-criticism,qualities,realism,Ward,1879,III,125-126
-criticism,qualities,realism,Lounsbury,1891,III,141
+criticism,qualities,realism,Ward,1879,III,124-126
+criticism,qualities,realism,Lounsbury,1891,III,140-144
 criticism,qualities,sublimity,Usk,[c. 1387],I,8
 criticism,qualities,sublimity,Harvey,1593,I,140
 criticism,qualities,sublimity,Yart,1753-6,V,29-30
@@ -420,7 +420,7 @@ criticism,comparisons,pope,Hazlitt,1821,II,132-133
 criticism,comparisons,ruizHita,Ticknor,1849,II,280
 criticism,comparisons,burns,Drake,1828,II,168
 criticism,comparisons,burns,Landor,1846,II,272
-criticism,comparisons,burns,Arnold,1880,III,130
+criticism,comparisons,burns,Arnold,1880,III,126-130
 criticism,comparisons,wyatt,Surrey,[1542],I,84
 criticism,comparisons,villon,Swinburne,1880,III,131-132
 criticism,comparisons,keats,Landor,1846,II,272
@@ -484,7 +484,7 @@ criticism,verse,praised,Landor,1856,III,30
 criticism,verse,praised,Rulwer,1860,III,53
 criticism,verse,praised,Craik,1861,III,56
 criticism,verse,praised,Lowell,1870,III,109
-criticism,verse,praised,Arnold,1880,III,127-128
+criticism,verse,praised,Arnold,1880,III,126-130
 criticism,verse,praised,Baret,1883,V,88-89
 criticism,verse,praised,Coote,1883,III,133-134
 criticism,verse,stanza,Thompson,1757,IV,109

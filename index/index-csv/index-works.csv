@@ -35,10 +35,10 @@ works,editionsCompleteWorks,,Chaucer,1854-6,III,15
 works,editionsCompleteWorks,,Chaucer,1864,III,71-72
 works,editionsCompleteWorks,,Chaucer,1866,III,81
 works,editionsCompleteWorks,,Chaucer,1878,III,123
-works,editionsCompleteWorks,,Chaucer,1878-80,III,123-124
-works,editionsCompleteWorks,,Skeat,1894-7,III,146-8
+works,editionsCompleteWorks,,Chaucer,1879-80,III,123-124
+works,editionsCompleteWorks,,Skeat,1894-7,III,148
+works,editionsCompleteWorks,,Chaucer,1898,III,150-151
 works,editionsCompleteWorks,,Chaucer,1896,III,150
-works,editionsCompleteWorks,,Chaucer,1898,III,150
 works,editionsCompleteWorks,,Düring,1883-6,V,150
 works,lostWorks,,Lydgate,1430,I,36-43
 works,lostWorks,,Warton,1787,I,487
@@ -227,7 +227,7 @@ works,otherSeparateWorks,troilus,Lydgate,1412,I,24
 works,otherSeparateWorks,troilus,Lydgate,1430,I,36-43
 works,otherSeparateWorks,troilus,Peacham,1622,I,197
 works,otherSeparateWorks,troilus,Coote,1883,III,133-134
-works,otherSeparateWorks,troilus,Ker,1895,III,149-150
+works,otherSeparateWorks,troilus,Ker,1895,III,148-150
 works,otherSeparateWorks,troilus,Southey,1812,II,59
 works,otherSeparateWorks,troilus,Gower,1376-9,I,4-5
 works,otherSeparateWorks,troilus,Usk,[c. 1387],I,8
@@ -286,8 +286,8 @@ works,otherSeparateWorks,romauntRose,Brink,1867,V,147
 works,otherSeparateWorks,romauntRose,Kittredge,1892,III,144
 works,otherSeparateWorks,romauntRose,Kaluza,1893,V,152
 works,otherSeparateWorks,romauntRose,Sandras,1859,V,69-74
-works,otherSeparateWorks,rosamounde,Skeat,1891,III,139
-works,otherSeparateWorks,rosamounde,Ker,1891,III,140
+works,otherSeparateWorks,rosamounde,Unknown,1891,III,139
+works,otherSeparateWorks,rosamounde,K[er],1891,III,140
 works,otherSeparateWorks,formerAge,Unknown,[c. 1420],I,26
 works,otherSeparateWorks,scoganEnvoy,Unknown,[c. 1445],I,47
 works,otherSeparateWorks,scoganEnvoy,Chaucer,[1477-8],I,58
@@ -327,7 +327,7 @@ works,canterburyTales,editionsGerman,Fiedler,1844,V,141
 works,canterburyTales,editionsGerman,Hertzberg,1866,V,145-146
 works,canterburyTales,abridgmentsChildren,Clarke,1833,II,187
 works,canterburyTales,abridgmentsChildren,Haweis,1876,III,121
-works,canterburyTales,abridgmentsChildren,Storrs,1878,III,123
+works,canterburyTales,abridgmentsChildren,Storr,1878,III,123
 works,canterburyTales,pardonerTale,Lipscomb,1792,I,493
 works,canterburyTales,pardonerTale,Unknown,1792,I,493
 works,canterburyTales,pardonerTale,Hunt,1845,II,260
@@ -537,7 +537,7 @@ works,canterburyTales,prioressTale,Johnstone,1827,II,165
 works,canterburyTales,prioressTale,Drumont,1886,V,91-92
 works,canterburyTales,prioressTale,Burne-Jones,1858,III,41
 works,canterburyTales,prioressTale,Rossetti,[c. 1854],III,19
-works,canterburyTales,prioressTale,Arnold,1880,III,128
+works,canterburyTales,prioressTale,Arnold,1880,III,126-130
 works,canterburyTales,prologue,Morell,1737,I,381-382
 works,canterburyTales,prologue,Brink,1871,V,148
 works,canterburyTales,prologue,Zupitza,1871,V,148
@@ -642,7 +642,7 @@ works,canterburyTales,criticism,Hunt,1846,II,269-271
 works,canterburyTales,criticism,Edgar,1852,III,9
 works,canterburyTales,criticism,Milman,1855,III,24-25
 works,canterburyTales,criticism,Maurice,1865,III,79
-works,canterburyTales,criticism,Unknown,1877,III,122
+works,canterburyTales,criticism,Unknown,1877,III,122-123
 works,canterburyTales,criticism,Demogeot,1895,V,101-102
 works,canterburyTales,criticism,Green,1874,III,119
 works,canterburyTales,criticism,Yart,1753-6,V,29-30
