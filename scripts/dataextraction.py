@@ -2,7 +2,7 @@ import re
 import os
 import csv
 
-txtFolder = "../allusions/vol1-allusions/16th-century-allusions"
+txtFolder = "../allusions/vol3-allusions/appendixC-allusions"
 
 # Regular expressions
 dateRegEx = r'(^\[?\d{4}-*\/*\d{0,4}[\.\?]?\]?\.?|^\[?([nac]\.)+\s\d{4}-?(\d{1,2})?[\.?]?\]?\.?|^\[\d{2}\]\d{2}\.)(\s[?[A-Z])'
@@ -24,8 +24,8 @@ for txt in sorted(os.listdir(txtFolder)):
       # print(txtFile)
 
       ID = re.split(r'/', label)[-1]
-      volume = "Vol.1"
-      part = "Part I"
+      volume = "Vol.3"
+      part = "Part V"
       page = re.split(r'_', ID)[1]
 
       # pageNb_head = re.search(r'^\d*\s|\s\d*$', txtFile, flags=re.M)
@@ -34,13 +34,13 @@ for txt in sorted(os.listdir(txtFolder)):
       # print(pageNb_clean)
 
       date = re.search(dateRegEx, txtFile, flags=re.M).group(1)
-      # print(date)
+      print(date)
 
       if re.search(authorRegEx, txtFile, flags=re.M).group(1):
         author = re.search(authorRegEx, txtFile, flags=re.M).group(1)
       else:
         author = "N/A"
-      # print(author)
+        # print(author)
 
       # We get the text after the author's name
       text = re.split(authorRegEx, txtFile, maxsplit=1, flags=re.M)
@@ -61,7 +61,7 @@ print(allusionsList)
 
 # We create a CSV file from the list
 fields = ['ID', 'Volume', 'Part','Page', 'Date', 'Author', 'Title','Quotation']
-with open('vol1-16th-allusions.csv', 'w', newline='') as c:
+with open('vol3-appendixC-allusions.csv', 'w', newline='') as c:
     writer = csv.writer(c)
     writer.writerow(fields)
     writer.writerows(allusionsList)

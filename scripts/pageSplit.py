@@ -1,7 +1,7 @@
 import os
 import re
 
-file = "../../1-Transcription/16th-allusions.txt"  # Txt file exported from eScriptorium (Batch of pages)
+file = "../../1-Transcription/vol3/appendixC-allusions.txt"  # Txt file exported from eScriptorium (Batch of pages)
 folder = "../pages"
 
 pagePattern = r'^-{15}\s.*-{15}$'
@@ -12,9 +12,9 @@ with open(file, "r") as f:
     # We split the text by pages
     splitText = re.split(pagePattern, textFile, flags=re.M)
 
-    pageNb = 95 # Number of the first page of the batch
+    pageNb = 128 # Number of the first page of the batch
     for text in splitText[1:]:
-        name = "part1_p" + str(pageNb) + ".txt"
+        name = "part5_p" + str(pageNb) + ".txt"
         print(name)
 
         file_path = os.path.join(folder, name)
