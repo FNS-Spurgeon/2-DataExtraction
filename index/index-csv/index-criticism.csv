@@ -27,7 +27,7 @@ criticism,influence,,[Chapman,1606,IV,57-60
 criticism,general,,Webbe,1586,I,129
 criticism,general,,Dryden,1700,I,272-285
 criticism,general,,Warton,1774,I,439-341
-criticism,general,,Eschenburg (?),1793,V,135-137
+criticism,general,,[Eschenburg,1793,V,134-136
 criticism,general,,Southey,1814,II,66-67
 criticism,general,,C.B.,1818,II,94
 criticism,general,,Coleridge,1818,II,95-96
@@ -304,7 +304,7 @@ criticism,qualities,humourWit,Bell(?),[c. 1785],I,480-481
 criticism,qualities,humourWit,White,1789,IV,98
 criticism,qualities,humourWit,R. H.,1820,II,122-123
 criticism,qualities,humourWit,Hunt,1846,II,269-271
-criticism,qualities,humourWit,Hertzberg,1856,V,144
+criticism,qualities,humourWit,Hertzberg,1856,V,143-144
 criticism,qualities,humourWit,Swinburne,1880,III,131-132
 criticism,qualities,moralPurposeSatire,Shirley,[c. 1450],I,49
 criticism,qualities,moralPurposeSatire,Hawes,1506,I,67
@@ -489,15 +489,15 @@ criticism,verse,praised,Baret,1883,V,88-89
 criticism,verse,praised,Coote,1883,III,133-134
 criticism,verse,stanza,Thompson,1757,IV,109
 criticism,verse,decried,Unknown,1855,III,28
-criticism,verse,alliteration,Lindner,1873,V,148
+criticism,verse,alliteration,Lindner,1875,V,148
 criticism,verse,finalE,Morell,1737,I,382
 criticism,verse,finalE,Gray,[1760-1?],I,419
 criticism,verse,finalE,Tyrwhitt,1775,I,443
 criticism,verse,finalE,Coleridge,1817,II,86
 criticism,verse,finalE,Guest,1838,II,222
 criticism,verse,finalE,Clough,1854,III,17
-criticism,verse,miscellaneous,Schipper,1881-8,V,150
-criticism,verse,miscellaneous,Paul,1893,V,152
+criticism,verse,miscellaneous,Schipper,1881-1888,V,150
+criticism,verse,miscellaneous,Paul,1898,V,152
 criticism,verse,miscellaneous,ten Brink,1884,V,150
 criticism,verse,miscellaneous,Freudenberger,1889,V,151
 criticism,verse,miscellaneous,Crow,1892,V,152
@@ -659,9 +659,9 @@ criticism,language,,Edman,1861,III,56
 criticism,language,,Child,1862,III,61-62
 criticism,language,,Marsh,1862,III,63-64
 criticism,language,,Baret,1883,V,88-89
-criticism,language,,Brink,1884,V,150
+criticism,language,,ten Brink,1884,V,150
 criticism,language,,Einenkel,1887,V,150
-criticism,language,,Morsbach,1893,V,152
+criticism,language,,Morsbach,1896,V,152
 criticism,language,,Manly,1890,III,139
 criticism,language,,Kittredge,1894,III,148
 criticism,language,importationMinimised,Tooke,1647,I,225
