@@ -10,9 +10,9 @@ biography,episodes,diplomatic,Unknown,1359-60,I,1
 biography,episodes,diplomatic,Unknown,1360,I,1
 biography,episodes,diplomatic,Lowth,1759,I,416
 biography,episodes,diplomatic,Warton,1775,I,441
-biography,episodes,diplomatic,D.,1803,II,9
-biography,episodes,diplomatic,Z.,1803,II,14
-biography,episodes,diplomatic,Carey,1808,II,36
+biography,episodes,diplomatic,H,1803,II,9
+biography,episodes,diplomatic,Z,1803,II,14
+biography,episodes,diplomatic,Carey,1808,II,35-37
 biography,episodes,diplomatic,Landor,1829,II,172-176
 biography,episodes,diplomatic,Villemain,1830,V,45-47
 biography,episodes,diplomatic,Milton,[1638-9],I,219
@@ -52,8 +52,8 @@ biography,episodes,tomb-epitath,Catling,[c. 1780],IV,96
 biography,episodes,tomb-epitath,Gough,1786- 96,I,483
 biography,episodes,tomb-epitath,Burlington,1779,I,456
 biography,episodes,tomb-epitath,Malcolm,1802,II,4
-biography,episodes,tomb-epitath,G. W. L.,1808,II,38
-biography,episodes,tomb-epitath,P.,1822,II,138
+biography,episodes,tomb-epitath,L,1808,II,38
+biography,episodes,tomb-epitath,P,1822,II,138
 biography,episodes,tomb-epitath,Brayley,1823,II,141
 biography,episodes,tomb-epitath,Allen,1828,II,168
 biography,episodes,tomb-epitath,N.B.,1849,II,279
@@ -121,7 +121,7 @@ biography,episodes,other-episodes,Riley,1859,III,51
 biography,episodes,other-episodes,Forster's lease of the same,1386,I,8
 biography,episodes,other-episodes,"“raptus"" of Cecily Chaumpaigne",1380,I,6
 biography,episodes,other-episodes,a witness in the Scrope-Grosvenor case,1386,I,8
-biography,episodes,other-episodes,Scott,1804,II,17-18
+biography,episodes,other-episodes,Scott,1804,II,17-19
 biography,episodes,other-episodes,Ormerod,1819,II,118
 biography,episodes,other-episodes,Nicolas,1832,II,185-186
 biography,episodes,other-episodes,Unknown,1836,II,209-210
@@ -197,7 +197,7 @@ biography,portraits,original,Hoccleve,1412,I,21-23
 biography,portraits,original,Andrews,1759,I,416
 biography,portraits,original,Unknown,1783,I,476
 biography,portraits,original,Dallaway,1826,II,160-61
-biography,portraits,original,Gatacre,1821,II,135
+biography,portraits,original,Unknown.,1821,II,135
 biography,portraits,original,Harbottle,1836,II,209
 biography,portraits,original,Unknown,[c. 1540],I,82-83
 biography,portraits,original,Sykes,1726,I,368
@@ -205,7 +205,7 @@ biography,portraits,original,Hearne,1711,I,315
 biography,portraits,original,Bridges,1716,I,343
 biography,portraits,original,Gray,1760,I,417-418
 biography,portraits,original,Walpole,1762,I,423
-biography,portraits,original,Proctor,1824,II,151-152
+biography,portraits,original,[Procter,1824,II,151-152
 biography,portraits,original,Elmes,1825,II,156
 biography,portraits,original,Spence,1728-58,I,413
 biography,portraits,original,Speght,1598,I,147
@@ -215,7 +215,7 @@ biography,portraits,original,Ellis,1819,II,115
 biography,portraits,original,Elmes,1825,II,156
 biography,portraits,original,Hazlitt,1829-30,II,172
 biography,portraits,original,Aubrey,1669,I,245
-biography,portraits,original,Skelton,1823,II,147
+biography,portraits,original,Skelton,1823,II,147-148
 biography,portraits,original,Tyson,1792,IV,99
 biography,portraits,engraved,Speght,1598,I,147
 biography,portraits,engraved,Thynne,1602,I,170

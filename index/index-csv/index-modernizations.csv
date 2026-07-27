@@ -31,7 +31,7 @@ modernizations,particular,dryden,Reeve,1785,I,479
 modernizations,particular,dryden,Harrison,1706,I,293
 modernizations,particular,dryden,Southey,1803,II,12
 modernizations,particular,dryden,Hazlitt,1815,II,70
-modernizations,particular,dryden,Hazlitt,1818,II,105-106
+modernizations,particular,dryden,Hazlitt,1818,II,106
 modernizations,particular,dryden,Lowell,1815,II,261
 modernizations,particular,dryden,Smith,1862,III,65-66
 modernizations,particular,dryden,Johnson,1779-81,I,456-457
@@ -72,7 +72,7 @@ modernizations,particular,pope,Schade,1897,V,152
 modernizations,particular,thurlow,Thurlow,1822,II,140
 modernizations,particular,thurlow,Thurlow,1823,II,148
 modernizations,particular,milnes,Milnes,1844,II,256
-modernizations,particular,hunt,Hunt,1820,II,126
+modernizations,particular,hunt,[Hunt,1820,II,126
 modernizations,particular,hunt,Hunt,1845,II,260
 modernizations,particular,hunt,Hunt,1855,III,22-23
 modernizations,particular,hunt,Hunt,1823,IV,105
@@ -98,10 +98,10 @@ modernizations,particular,anonymous,Unknown,1769,IV,94
 modernizations,particular,anonymous,Unknown,1791,I,493
 modernizations,particular,anonymous,Unknown,1794,IV,100
 modernizations,particular,anonymous,Unknown,1796,I,499
-modernizations,particular,anonymous,L.G.W.,1803,II,13
+modernizations,particular,anonymous,L,1803,II,13
 modernizations,particular,anonymous,Unknown,1804,II,21
-modernizations,particular,anonymous,C.T.,1811,II,56
-modernizations,particular,anonymous,Unknown,1815,II,80-81
+modernizations,particular,anonymous,Chaucer,1812,II,56
+modernizations,particular,anonymous,Unknown,1815,II,80
 modernizations,particular,anonymous,Unknown,1837,II,219
 modernizations,particular,anonymous,Unknown,1841,II,240-241
 modernizations,particular,anonymous,Unknown,1845,II,266

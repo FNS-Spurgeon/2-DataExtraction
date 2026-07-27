@@ -94,7 +94,7 @@ works,otherSeparateWorks,truth,Chaucer,[1477-8],I,58
 works,otherSeparateWorks,truth,Tottel,1557,I,94
 works,otherSeparateWorks,truth,Furnivall,1867,III,88
 works,otherSeparateWorks,truth,Harte,1727,IV,84
-works,otherSeparateWorks,truth,Unknown,1815,II,80-81
+works,otherSeparateWorks,truth,Unknown,1815,II,80
 works,otherSeparateWorks,truth,Milnes,1844,II,256
 works,otherSeparateWorks,truth,Fox,1841,II,233
 works,otherSeparateWorks,truth,Beaumont,[1610],I,184
@@ -116,7 +116,7 @@ works,otherSeparateWorks,houseFame,Peele,1593,I,140
 works,otherSeparateWorks,houseFame,Thynne,1600,I,166
 works,otherSeparateWorks,houseFame,Jonson,[1609],I,184
 works,otherSeparateWorks,houseFame,Jonson,[1625?],I,199
-works,otherSeparateWorks,houseFame,Campbell,1819,II,112-113
+works,otherSeparateWorks,houseFame,Campbell,1819,II,110-113
 works,otherSeparateWorks,houseFame,Unknown,1832,II,187
 works,otherSeparateWorks,houseFame,Gomont,1847,V,55-60
 works,otherSeparateWorks,houseFame,Unknown,"1877, ff.",V,148-149
@@ -212,7 +212,7 @@ works,otherSeparateWorks,troilus,Dekker,1599,IV,53
 works,otherSeparateWorks,troilus,Unknown,[c. 1610],IV,61
 works,otherSeparateWorks,troilus,Unknown,[1566],IV,34
 works,otherSeparateWorks,troilus,Unknown,[1597],I,144
-works,otherSeparateWorks,troilus,Campbell,1819,II,112
+works,otherSeparateWorks,troilus,Campbell,1819,II,110-113
 works,otherSeparateWorks,troilus,Elyot,1533,I,80
 works,otherSeparateWorks,troilus,Reynolds,[1632?],I,205
 works,otherSeparateWorks,troilus,Atkinson,[1600?],IV,53
@@ -257,8 +257,8 @@ works,otherSeparateWorks,troilus,Scoloker,1604,I,175
 works,otherSeparateWorks,troilus,Tofte,1615,IV,108
 works,otherSeparateWorks,troilus,Brathwait,1621,IV,108
 works,otherSeparateWorks,troilus,Kynaston,1612,I,222
-works,otherSeparateWorks,troilus,Godwin,1803,II,6-8
-works,otherSeparateWorks,troilus,Campbell,1819,II,112
+works,otherSeparateWorks,troilus,Godwin,1803,II,6-9
+works,otherSeparateWorks,troilus,Campbell,1819,II,110-113
 works,otherSeparateWorks,troilus,Campbell,1830,II,177-178
 works,otherSeparateWorks,troilus,Collier,1832,II,184
 works,otherSeparateWorks,troilus,Coleridge,[n.a. 1848],II,276
@@ -337,7 +337,7 @@ works,canterburyTales,pardonerTale,Heywood,1533,I,80-81
 works,canterburyTales,pardonerTale,Ascham,1544,I,85-86
 works,canterburyTales,pardonerTale,Unknown,1555,I,94
 works,canterburyTales,pardonerTale,Northbrooke,1577,I,115
-works,canterburyTales,franklinTale,Wharton,1804-5,II,22
+works,canterburyTales,franklinTale,Wharton,1804-5,II,22-23
 works,canterburyTales,franklinTale,Beaumont,[1608?],IV,61
 works,canterburyTales,franklinTale,Lydgate,[1403?],I,18
 works,canterburyTales,franklinTale,Walkington,1607,I,180
@@ -384,7 +384,7 @@ works,canterburyTales,nunsPriestTale,Cleveland,[a. 1658],I,235
 works,canterburyTales,nunsPriestTale,Garrick,[c. 1770],I,436
 works,canterburyTales,nunsPriestTale,Johnson,1779-81,I,456
 works,canterburyTales,nunsPriestTale,Bell,[c. 1785],I,481
-works,canterburyTales,nunsPriestTale,Scott,1808,II,41
+works,canterburyTales,nunsPriestTale,Scott,1808,II,39-41
 works,canterburyTales,nunsPriestTale,Thoms,1844,II,257
 works,canterburyTales,clerkTale,Wright,1867,III,94
 works,canterburyTales,clerkTale,L[aing],1843,II,248
@@ -447,14 +447,14 @@ works,canterburyTales,knightTale,Bossewell,1572,I,109
 works,canterburyTales,knightTale,Yart,1753-6,V,29-30
 works,canterburyTales,knightTale,Johnson,1779,I,456
 works,canterburyTales,knightTale,[Eschenburg,1793,V,134-136
-works,canterburyTales,knightTale,Hazlitt,1818,II,99-103
+works,canterburyTales,knightTale,Hazlitt,1818,II,98-106
 works,canterburyTales,knightTale,Hunt,1820,II,124-125
-works,canterburyTales,knightTale,Scott,1808,II,39-40
+works,canterburyTales,knightTale,Scott,1808,II,39-41
 works,canterburyTales,reeveTale,Betterton,[a. 1710],I,312
 works,canterburyTales,reeveTale,Unknown,[c. 1500],IV,8
 works,canterburyTales,reeveTale,Wright,1844,II,257-258
 works,canterburyTales,reeveTale,[Le Clerc,1856,V,63-65
-works,canterburyTales,reeveTale,Whitaker,1805,II,26
+works,canterburyTales,reeveTale,Whitaker,1805,II,25-26
 works,canterburyTales,reeveTale,Unknown,1865,I,94
 works,canterburyTales,editionsFrench,Chatelain,1857-61,V,66-69
 works,canterburyTales,editionsFrench,Simond,[1889],V,95
@@ -507,7 +507,7 @@ works,canterburyTales,frameOrder,Unknown,1590,I,131-132
 works,canterburyTales,frameOrder,Beaumont,1597,I,146
 works,canterburyTales,frameOrder,Warton,1782,I,470
 works,canterburyTales,frameOrder,Stanley,1855,III,27
-works,canterburyTales,frameOrder,Crabbe,1812,II,57
+works,canterburyTales,frameOrder,Crabbe,1812,II,57-58
 works,canterburyTales,frameOrder,Unknown,1825,II,158
 works,canterburyTales,frameOrder,[Eschenburg,1793,V,134-136
 works,canterburyTales,frameOrder,Unknown,1825,II,158
@@ -566,7 +566,7 @@ works,canterburyTales,wifeBathTale,[Contant d'Orville,1770,V,34
 works,canterburyTales,wifeBathTale,Hertzberg,1856,V,143-144
 works,canterburyTales,wifeBathTale,Johnson,1612,IV,62
 works,canterburyTales,wifeBathTale,Brathwait,1665,I,242
-works,canterburyTales,wifeBathTale,Scott,1808,II,41
+works,canterburyTales,wifeBathTale,Scott,1808,II,39-41
 works,canterburyTales,wifeBathTale,Unknown,[1536-40?],I,82
 works,canterburyTales,wifeBathTale,Unknown,1555,I,94
 works,canterburyTales,wifeBathTale,Bossewell,1572,I,108
@@ -632,10 +632,10 @@ works,canterburyTales,criticism,Jacob,1720,I,349
 works,canterburyTales,criticism,Morell,1737,I,382
 works,canterburyTales,criticism,Dryden,1700,I,274
 works,canterburyTales,criticism,Warton,1782,I,1470
-works,canterburyTales,criticism,Godwin,1803,II,8-9
+works,canterburyTales,criticism,Godwin,1803,II,6-9
 works,canterburyTales,criticism,Crabbe,1812,I,57
 works,canterburyTales,criticism,Mitford,1815,I,72
-works,canterburyTales,criticism,Campbell,1819,II,113
+works,canterburyTales,criticism,Campbell,1819,II,110-113
 works,canterburyTales,criticism,Hippisley,1837,II,217
 works,canterburyTales,criticism,De Quincey,1841,II,229-230
 works,canterburyTales,criticism,Hunt,1846,II,269-271

@@ -28,8 +28,8 @@ criticism,general,,Webbe,1586,I,129
 criticism,general,,Dryden,1700,I,272-285
 criticism,general,,Warton,1774,I,439-341
 criticism,general,,[Eschenburg,1793,V,134-136
-criticism,general,,Southey,1814,II,66-67
-criticism,general,,C.B.,1818,II,94
+criticism,general,,Southey,1814,II,66
+criticism,general,,B,1818,II,94
 criticism,general,,Coleridge,1818,II,95-96
 criticism,general,,Hallam,1818,II,97
 criticism,general,,Hazlitt,1818,II,98-106
@@ -97,7 +97,7 @@ criticism,qualities,eloquence,Unknown,[1525?],I,75
 criticism,qualities,eloquence,Grange,1577,I,107
 criticism,qualities,happinessCheerfulness,Spenser,1590-96,I,133
 criticism,qualities,happinessCheerfulness,Dekker,[1607],I,178
-criticism,qualities,happinessCheerfulness,Coleridge,1817,II,85
+criticism,qualities,happinessCheerfulness,Coleridge,1817,II,85-87
 criticism,qualities,happinessCheerfulness,Coleridge,1834,II,190
 criticism,qualities,happinessCheerfulness,Unknown,1842,II,246
 criticism,qualities,happinessCheerfulness,Furnivall,1873,III,113-114
@@ -116,7 +116,7 @@ criticism,qualities,observationCharacter,Milman,1855,III,23-25
 criticism,qualities,observationCharacter,Hales,1873,III,115-116
 criticism,qualities,wantSublimitySeriousness,Rymer,1674,I,249
 criticism,qualities,wantSublimitySeriousness,Unknown,1839,II,226
-criticism,qualities,wantSublimitySeriousness,C. B.,1818,II,94
+criticism,qualities,wantSublimitySeriousness,B,1818,II,94
 criticism,qualities,wantSublimitySeriousness,Hallam,1818,II,97
 criticism,qualities,wantSublimitySeriousness,Unknown,1839,II,228
 criticism,qualities,wantSublimitySeriousness,Thoreau,1843,II,251
@@ -170,12 +170,12 @@ criticism,qualities,learning,Hatton,1708,I,296
 criticism,qualities,learning,Grainger,1769,I,431
 criticism,qualities,learning,Henry,1781,I,460
 criticism,qualities,learning,Dyer,[1811],II,53
-criticism,qualities,learning,Nott,1815-16,II,77-80
+criticism,qualities,learning,Nott,1815-16,II,73-80
 criticism,qualities,learning,Sandras,1859,V,69-74
 criticism,qualities,loveNature,Bossewell,1572,I,108-109
 criticism,qualities,loveNature,Dart,1721,I,358-359
 criticism,qualities,loveNature,Fox,1800,IV,102
-criticism,qualities,loveNature,Coleridge,1818,II,95
+criticism,qualities,loveNature,Coleridge,1818,II,95-96
 criticism,qualities,loveNature,Hunt,1820,II,124-125
 criticism,qualities,loveNature,Hunt,1844,II,253
 criticism,qualities,loveNature,Drake,1828,II,168
@@ -193,8 +193,8 @@ criticism,qualities,pathos,Warton,1774,I,440
 criticism,qualities,pathos,Warton,1782,I,470
 criticism,qualities,pathos,Drake,1805,II,24
 criticism,qualities,pathos,Trotter,1811,II,56
-criticism,qualities,pathos,Hazlitt,1818,II,99
-criticism,qualities,pathos,Campbell,1819,II,112
+criticism,qualities,pathos,Hazlitt,1818,II,98-106
+criticism,qualities,pathos,Campbell,1819,II,110-113
 criticism,qualities,pathos,Scott,1829,II,176
 criticism,qualities,pathos,O'Sullivan,1830,V,44-45
 criticism,qualities,pathos,D’Israeli,1841,II,231
@@ -206,7 +206,7 @@ criticism,qualities,pathos,Hales,1873,III,115-116
 criticism,qualities,pathos,Arnold,1880,III,127
 criticism,qualities,pathos,Swinburne,1880,III,131-132
 criticism,qualities,prolixity,Pinkerton,1786,I,484
-criticism,qualities,prolixity,Campbell,1819,II,112
+criticism,qualities,prolixity,Campbell,1819,II,110-113
 criticism,qualities,prolixity,Unknown,1846,II,273
 criticism,qualities,prolixity,Smith,1862,III,65-66
 criticism,qualities,prolixity,Unknown,1873,III,117
@@ -235,7 +235,7 @@ criticism,qualities,indecencyFrivolity,Seward,1806,II,28
 criticism,qualities,indecencyFrivolity,Byron,1807,II,29
 criticism,qualities,indecencyFrivolity,Byron,1811,II,52
 criticism,qualities,indecencyFrivolity,Richman,[c. 1810],II,49
-criticism,qualities,indecencyFrivolity,Coleridge,1818,II,95
+criticism,qualities,indecencyFrivolity,Coleridge,1818,II,95-96
 criticism,qualities,indecencyFrivolity,Digby,1826,II,161
 criticism,qualities,indecencyFrivolity,Collier,1833,II,187
 criticism,qualities,indecencyFrivolity,Unknown,1841,II,241
@@ -302,7 +302,7 @@ criticism,qualities,humourWit,Warton,1774,I,440
 criticism,qualities,humourWit,Burney,1782,I,465
 criticism,qualities,humourWit,Bell(?),[c. 1785],I,480-481
 criticism,qualities,humourWit,White,1789,IV,98
-criticism,qualities,humourWit,R. H.,1820,II,122-123
+criticism,qualities,humourWit,H,1820,II,122-123
 criticism,qualities,humourWit,Hunt,1846,II,269-271
 criticism,qualities,humourWit,Hertzberg,1856,V,143-144
 criticism,qualities,humourWit,Swinburne,1880,III,131-132
@@ -338,8 +338,8 @@ criticism,qualities,realism,Warton,1774,I,440
 criticism,qualities,realism,Greene,1782,I,466
 criticism,qualities,realism,Crabbe,1812,II,57-58
 criticism,qualities,realism,Hazlitt,1817,II,87-89
-criticism,qualities,realism,Campbell,1819,II,113
-criticism,qualities,realism,Keats,1819,II,118
+criticism,qualities,realism,Campbell,1819,II,110-113
+criticism,qualities,realism,Keats,1819,II,117-118
 criticism,qualities,realism,Hippisley,1837,II,216
 criticism,qualities,realism,Hunt,1844,II,255
 criticism,qualities,realism,Unknown,1845,II,266-267
@@ -359,9 +359,9 @@ criticism,qualities,originality,Lowell,1871,III,108-111
 criticism,comparisons,cavendish,Cavendish,1664,IV,74
 criticism,comparisons,marot,Rogers,[c. 1570],I,107
 criticism,comparisons,marot,Feller,1791,V,37
-criticism,comparisons,marot,Cary,1821-4,II,131-132
+criticism,comparisons,marot,[Cary,1821-4,II,131-132
 criticism,comparisons,browning,Landor,1846,II,273
-criticism,comparisons,dryden,Wordsworth,1805,II,26
+criticism,comparisons,dryden,Wordsworth,1805,II,25-26
 criticism,comparisons,dryden,Unknown,1855,III,28
 criticism,comparisons,morris,Swinburne,1867,III,94
 criticism,comparisons,dunbar,Pinkerton,1786,I,484
@@ -379,7 +379,7 @@ criticism,comparisons,spenser,Thompson,1745,I,391-392
 criticism,comparisons,spenser,Southey,1811,II,55
 criticism,comparisons,spenser,Landor,1811,IV,103
 criticism,comparisons,spenser,Landor,[n.a. 1841],II,239
-criticism,comparisons,spenser,Hazlitt,1818,II,98
+criticism,comparisons,spenser,Hazlitt,1818,II,98-106
 criticism,comparisons,spenser,Hazlitt,1826,II,161-162
 criticism,comparisons,laFontaine,Jusserand,1878,V,85
 criticism,comparisons,hogarth,Bancks,1738,I,383
@@ -428,7 +428,7 @@ criticism,comparisons,keats,Landor,1848,II,278
 criticism,comparisons,crabbe,Lowell,1845,II,261
 criticism,comparisons,meistersinger,Herder,1777,V,133-134
 criticism,comparisons,shakespeare,Hazlitt,1817,II,87-89
-criticism,comparisons,shakespeare,Hazlitt,1818,II,105
+criticism,comparisons,shakespeare,Hazlitt,1818,II,98-106
 criticism,comparisons,shakespeare,Coleridge,1834,II,190
 criticism,comparisons,shakespeare,FitzGerald,1859,III,49
 criticism,comparisons,shakespeare,Hales,1873,III,115-116
@@ -473,8 +473,8 @@ criticism,verse,praised,Tytler,1783,I,475
 criticism,verse,praised,Unknown,1816,II,85
 criticism,verse,praised,Coleridge,1817,II,85-87
 criticism,verse,praised,Coleridge,1834,II,190-191
-criticism,verse,praised,Campbell,1819,II,111
-criticism,verse,praised,Hunt,1823,II,144-145
+criticism,verse,praised,Campbell,1819,II,110-113
+criticism,verse,praised,[Hunt,1823,II,144-145
 criticism,verse,praised,Hunt,1832,II,185
 criticism,verse,praised,Hunt,1835,II,196
 criticism,verse,praised,Cunningham,1835,II,194-195
@@ -493,7 +493,7 @@ criticism,verse,alliteration,Lindner,1875,V,148
 criticism,verse,finalE,Morell,1737,I,382
 criticism,verse,finalE,Gray,[1760-1?],I,419
 criticism,verse,finalE,Tyrwhitt,1775,I,443
-criticism,verse,finalE,Coleridge,1817,II,86
+criticism,verse,finalE,Coleridge,1817,II,85-87
 criticism,verse,finalE,Guest,1838,II,222
 criticism,verse,finalE,Clough,1854,III,17
 criticism,verse,miscellaneous,Schipper,1881-1888,V,150
@@ -507,10 +507,10 @@ criticism,verse,thoughtRhythmical,Gascoigne,1575,I,110
 criticism,verse,thoughtRhythmical,Farmer,1767,I,430
 criticism,verse,thoughtRhythmical,Coleridge,1803,II,11-12
 criticism,verse,thoughtRhythmical,Southey,1803,II,11-12
-criticism,verse,thoughtRhythmical,Southey,1807,II,34
+criticism,verse,thoughtRhythmical,Southey,1807,II,33-35
 criticism,verse,thoughtRhythmical,Southey,1831,II,183
 criticism,verse,thoughtRhythmical,Southey,1836,II,206-207
-criticism,verse,thoughtRhythmical,Nott,1815-16,II,73-77
+criticism,verse,thoughtRhythmical,Nott,1815-16,II,73-80
 criticism,verse,thoughtRhythmical,D’Israeli,1841,II,232
 criticism,verse,thoughtRhythmical,Weymouth,1862,III,66
 criticism,verse,ridingRhyme,Gascoigne,1575,I,111
@@ -529,7 +529,7 @@ criticism,language,importationDenied,Johnson,1755,I,410-411
 criticism,language,importationDenied,Tyrwhitt,1775,I,442-443
 criticism,language,importationDenied,Warton,1778,I,454
 criticism,language,importationDenied,Pinkerton,1786,I,484
-criticism,language,importationDenied,Campbell,1819,II,111
+criticism,language,importationDenied,Campbell,1819,II,110-113
 criticism,language,importationDenied,Craik,1851,III,1
 criticism,language,importationDenied,Marsh,1862,III,63-64
 criticism,language,importationDenied,Marsh,1858-9,III,44
@@ -632,7 +632,7 @@ criticism,language,obsoleteRude,Hayley,1782,I,466
 criticism,language,obsoleteRude,Beattie,1783,I,473
 criticism,language,obsoleteRude,Seward,1792,I,494
 criticism,language,obsoleteRude,Ω,1804,II,23
-criticism,language,obsoleteRude,Irving,1807,II,30
+criticism,language,obsoleteRude,Cockloft,1807,II,30
 criticism,language,obsoleteRude,Southey,1811,II,55
 criticism,language,obsoleteRude,Hippisley,1837,II,216
 criticism,language,obsoleteRude,Halliwell-Phillipps,1847,II,274
@@ -685,7 +685,7 @@ criticism,language,corruptedEnglish,[Le Blanc,1745,V,24
 criticism,language,corruptedEnglish,Percy,1765,I,427
 criticism,language,corruptedEnglish,Warton,1778,I,454
 criticism,language,corruptedEnglish,Unknown,1778,I,451
-criticism,language,corruptedEnglish,Whitaker,1805,II,25
+criticism,language,corruptedEnglish,Whitaker,1805,II,25-26
 criticism,language,corruptedEnglish,Baret,1883,V,88-89
 criticism,language,corruptedEnglish,Thommerel,1841,V,53-54
 criticism,language,corruptedEnglish,Jusserand,1893,V,96-97
@@ -697,7 +697,7 @@ criticism,language,notObsoleteRude,Skelton,1507,I,69
 criticism,language,notObsoleteRude,Beaumont,1597,I,145-146
 criticism,language,notObsoleteRude,Cokayne,1658,I,236
 criticism,language,notObsoleteRude,Pinkerton,1785,I,478-479
-criticism,language,notObsoleteRude,Hunt,1823,II,144-145
+criticism,language,notObsoleteRude,[Hunt,1823,II,144-145
 criticism,language,notObsoleteRude,Coleridge,1834,II,190-191
 criticism,language,importationMinimised,Warton,1778,I,454-455
 criticism,general,,Taine,1862,V,76
