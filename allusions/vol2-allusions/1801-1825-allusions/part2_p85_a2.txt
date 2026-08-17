@@ -1,9 +1,7 @@
 1817. Coleridge, Samuel Taylor. Biographia Literaria, 2 vols., 1817,
 vol i, pp. 21, 22, 32, 38, 55, 203, 205; vol. ii, pp. 97, 79, 104.
 [ch. i, pp. 21-22]
-pp. 21-22]
 In my defence of the lines running into each other, instead
-pp.22]
 of closing at each couplet, and of natural language,... I had
 continually to adduce the metre and diction of the Greek
 Poets... and still more of our elder English poets from
@@ -15,7 +13,7 @@ ness, a manly hilarity, which makes it almost impossible to
 doubt a correspondent habit of feeling in the author himself.
 [Cf. Table Talk, below, 1834.]
 . . . . . . . . . .
-[p. 28] In the days of Chaucer and Gower, our language might
+[p. 38] In the days of Chaucer and Gower, our language might
 (with due allowance for the imperfections of a simile) be
 compared to a wilderness of vocal reeds, from which the
 favourites only of Pan or Apollo could construct even the rude
@@ -41,7 +39,6 @@ have instances of the close connection of poetic genius with
 the love of liberty and of genuine reformation.
 [Vol. ii, p. 79]
 . . . . . . . . . .
-p. 79]
 [Defence of the use of mythological personages by the older
 poets.] Nay, even at this day what scholar of genial taste will
 not so far sympathise with them, as to read with pleasure in
