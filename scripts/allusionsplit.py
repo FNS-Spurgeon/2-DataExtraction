@@ -1,8 +1,8 @@
 import re
 import os
 
-txtFolder = "../pages/vol2-pages/1801-1825"
-allusionFolder = "../allusions/vol2-allusions/1801-1825-allusions"
+txtFolder = "../pages/vol2-pages/1826-1850"
+allusionFolder = "../allusions/vol2-allusions/1826-1850-allusions"
 
 for txt in sorted(os.listdir(txtFolder)):
   txt_path = os.path.join(txtFolder, txt)
