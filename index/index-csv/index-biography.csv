@@ -56,7 +56,7 @@ biography,episodes,tomb-epitath,L,1808,II,38
 biography,episodes,tomb-epitath,P,1822,II,138
 biography,episodes,tomb-epitath,Brayley,1823,II,141
 biography,episodes,tomb-epitath,Allen,1828,II,168
-biography,episodes,tomb-epitath,N.B.,1849,II,279
+biography,episodes,tomb-epitath,B,1849,II,279
 biography,episodes,tomb-epitath,Collier,1850,II,283
 biography,episodes,tomb-epitath,Collier,1850,II,283
 biography,episodes,tomb-epitath,M. N. S.,1850,II,286
@@ -66,7 +66,7 @@ biography,episodes,tomb-epitath,Poole,1881,III,133
 biography,episodes,tomb-epitath,Unknown,1566,I,99
 biography,episodes,tomb-epitath,Unknown,1585,I,128
 biography,episodes,tomb-epitath,Cæsar,1596,I,143
-biography,episodes,tomb-epitath,Haslewood,1833,II,188
+biography,episodes,tomb-epitath,Haslewood,[c. 1833],II,187-189
 biography,episodes,education,Leland,[c. 1545],IV,13
 biography,episodes,education,Pits,1613,IV,63
 biography,episodes,education,W. Covell,1595,I,141-142
@@ -80,12 +80,12 @@ biography,episodes,education,Pits,1613,IV,63
 biography,episodes,education,Leland,[c. 1545],IV,14
 biography,episodes,education,Pits,1613,IV,63-64
 biography,episodes,education,Wharton,[c. 1687],IV,78
-biography,episodes,education,Hazlitt,1826,II,161
+biography,episodes,education,Hazlitt,1826,II,161-162
 biography,episodes,education,Hunt,1835,II,197
 biography,episodes,education,Thynne,1598,I,154
 biography,episodes,education,Fuller,1655,I,230
 biography,episodes,education,Chatterton,1770,I,434
-biography,episodes,education,De Quincey,1841,II,229
+biography,episodes,education,[De Quincey,1841,II,229-230
 biography,episodes,education,Kingsley,1865,III,77-78
 biography,episodes,education,Lamb,1827,II,165-166
 biography,episodes,appointments,his first annuity from the Crown,1367-89),I,1-2
@@ -114,7 +114,7 @@ biography,episodes,birth,Leland,[c. 1545],IV,13
 biography,episodes,birth,Pits,1613,IV,63
 biography,episodes,birth,Wharton,[c. 1687],IV,78
 biography,episodes,birth,Unknown,1778,I,452
-biography,episodes,birth,Clarke,1842,II,244
+biography,episodes,birth,[C]larke,1842,II,244
 biography,episodes,other-episodes,in household of the Duchess of Clarence,1357,I,1
 biography,episodes,other-episodes,his Aldgate lease,1374,I,3
 biography,episodes,other-episodes,Riley,1859,III,51
@@ -153,7 +153,7 @@ biography,episodes,other-episodes,Unknown,1778,I,452-454
 biography,episodes,other-episodes,Wharton,[c. 1687],IV,79
 biography,episodes,other-episodes,Unknown,1778,I,453
 biography,episodes,other-episodes,Clarke,1835,II,194
-biography,episodes,other-episodes,Clarke,1842,II,244
+biography,episodes,other-episodes,[C]larke,1842,II,244
 biography,episodes,other-episodes,Cunningham,1835,II,194-195
 biography,episodes,other-episodes,Leland,[c. 1545],IV,18
 biography,episodes,other-episodes,Peacham,1622,I,197
@@ -196,7 +196,7 @@ biography,portraits,original,Evelyn,1689,I,261
 biography,portraits,original,Hoccleve,1412,I,21-23
 biography,portraits,original,Andrews,1759,I,416
 biography,portraits,original,Unknown,1783,I,476
-biography,portraits,original,Dallaway,1826,II,160-61
+biography,portraits,original,Dallaway,1826,II,160-161
 biography,portraits,original,Unknown.,1821,II,135
 biography,portraits,original,Harbottle,1836,II,209
 biography,portraits,original,Unknown,[c. 1540],I,82-83
@@ -225,10 +225,10 @@ biography,portraits,engraved,Walpole,1763,I,424
 biography,portraits,engraved,Gray,1760,I,417-418
 biography,portraits,engraved,Bromley,1793,I,494
 biography,portraits,modern,Barry,1783,I,472
-biography,portraits,modern,Ford Madox Brown,1845-51,II,259
+biography,portraits,modern,Brown,1845-51,II,259
 biography,portraits,modern,Burne-Jones,1862,III,61
 biography,portraits,modern,Dodsley,1761,IV,93
-biography,portraits,modern,Unknown,1845,II,260
+biography,portraits,modern,"[Leigh,",1845,II,260
 biography,portraits,modern,Rymsdyk,1778,IV,95
 biography,portraits,modern,D’Israeli,1793,IV,100
 biography,portraits,modern,Unknown,[1592],I,137
@@ -284,11 +284,11 @@ biography,general-accounts,english,Clarke,1835,II,194
 biography,general-accounts,english,Cunningham,1835,II,194-195
 biography,general-accounts,english,Dunham,1836,II,204-205
 biography,general-accounts,english,Unknown,1837,II,219
-biography,general-accounts,english,Schmitz,1841,II,234
-biography,general-accounts,english,Clarke,1842,II,244
+biography,general-accounts,english,Schmitz,1841,II,240
+biography,general-accounts,english,[C]larke,1842,II,244
 biography,general-accounts,english,Chambers,1843,IV,106
-biography,general-accounts,english,Nicolas,1843-4,II,262
-biography,general-accounts,english,Saunders,1845,II,266
+biography,general-accounts,english,Nicolas,[1843-4],II,248
+biography,general-accounts,english,[Saunders,1845,II,266
 biography,general-accounts,english,Deshler,1847,II,274
 biography,general-accounts,english,Unknown,1849,II,281-282
 biography,general-accounts,english,Unknown,1856,III,36-37

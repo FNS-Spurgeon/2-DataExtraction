@@ -29,7 +29,7 @@ works,editionsCompleteWorks,,Chaucer,1807,II,29
 works,editionsCompleteWorks,,Chaucer,1810,II,48
 works,editionsCompleteWorks,,Chalmers,1810,II,48-49
 works,editionsCompleteWorks,,Chaucer,1822,II,136
-works,editionsCompleteWorks,,Moxon,1843,II,246
+works,editionsCompleteWorks,,Chaucer,1843,II,246
 works,editionsCompleteWorks,,Chaucer,1845,II,258
 works,editionsCompleteWorks,,Chaucer,1854-56,III,15
 works,editionsCompleteWorks,,Chaucer,1864,III,71-72
@@ -55,14 +55,14 @@ works,selections,,Southey,1831,II,183
 works,selections,,Deshler,1847,II,274
 works,otherSeparateWorks,complaintVenus,Shirley,[c. 1450],I,48
 works,otherSeparateWorks,complaintVenus,Unknown,[c. 1488],I,63-64
-works,otherSeparateWorks,complaintVenus,Bell,1841,II,234
+works,otherSeparateWorks,complaintVenus,Horne,1841,II,234-238
 works,otherSeparateWorks,bookDuchess,Unknown,[c. 1600],I,166
 works,otherSeparateWorks,bookDuchess,Lydgate,1430,I,36-43
 works,otherSeparateWorks,bookDuchess,Bossewell,1572,I,108
 works,otherSeparateWorks,bookDuchess,Froissart,[1385?],V,123
 works,otherSeparateWorks,bookDuchess,Lange,1883,V,150
 works,otherSeparateWorks,parliamentFowls,Unknown,[c. 1488],I,64
-works,otherSeparateWorks,parliamentFowls,H.,1839,II,225
+works,otherSeparateWorks,parliamentFowls,H,1839,II,225
 works,otherSeparateWorks,parliamentFowls,Chaucer,[1477-8],I,58
 works,otherSeparateWorks,parliamentFowls,Chaucer,1526,I,75
 works,otherSeparateWorks,parliamentFowls,Chaucer,1530,I,76
@@ -96,7 +96,7 @@ works,otherSeparateWorks,truth,Furnivall,1867,III,88
 works,otherSeparateWorks,truth,Harte,1727,IV,84
 works,otherSeparateWorks,truth,Unknown,1815,II,80
 works,otherSeparateWorks,truth,Milnes,1844,II,256
-works,otherSeparateWorks,truth,Fox,1841,II,233
+works,otherSeparateWorks,truth,Fox,[1841,II,233
 works,otherSeparateWorks,truth,Beaumont,[1610],I,184
 works,otherSeparateWorks,mercilessBeauty,Percy,1765,I,426-429
 works,otherSeparateWorks,proverbs,Chaucer,[c. 1450],I,50
@@ -123,7 +123,7 @@ works,otherSeparateWorks,houseFame,Unknown,"1877, ff.",V,148-149
 works,otherSeparateWorks,houseFame,Crow,1892,V,152
 works,otherSeparateWorks,houseFame,Unknown,1854,III,19-20
 works,otherSeparateWorks,complaintMars,Shirley,[c. 1450],I,48
-works,otherSeparateWorks,complaintMars,Bell,1841,II,234
+works,otherSeparateWorks,complaintMars,Horne,1841,II,234-238
 works,otherSeparateWorks,fortune,Shirley,[c. 1430-40],I,43
 works,otherSeparateWorks,fortune,Caxton,[1477-8],I,58
 works,otherSeparateWorks,fortune,Pynson,1526,I,75
@@ -272,7 +272,7 @@ works,otherSeparateWorks,astrolabe,Lydgate,1430,I,36-43
 works,otherSeparateWorks,astrolabe,Twyne,1608,I,180-181
 works,otherSeparateWorks,astrolabe,Peacham,1622,I,197
 works,otherSeparateWorks,astrolabe,Henry,1781,I,460
-works,otherSeparateWorks,astrolabe,Halliwell-Phillips,1840,II,227
+works,otherSeparateWorks,astrolabe,Halliwell,1840,II,227
 works,otherSeparateWorks,astrolabe,Selden,[1612],I,186
 works,otherSeparateWorks,romauntRose,Chaucer,1532,I,78
 works,otherSeparateWorks,romauntRose,Chaucer,1846,II,267
@@ -295,7 +295,7 @@ works,otherSeparateWorks,legendGoodWomen,Kunz,1888,V,151
 works,otherSeparateWorks,legendGoodWomen,Unknown,[c. 1488],I,63-64
 works,otherSeparateWorks,legendGoodWomen,Gemsege,1758,I,413-414
 works,otherSeparateWorks,legendGoodWomen,Bradshaw,1864,III,72
-works,otherSeparateWorks,legendGoodWomen,Powell (?),1841,II,234
+works,otherSeparateWorks,legendGoodWomen,Horne,1841,II,234-238
 works,otherSeparateWorks,legendGoodWomen,Unknown,1803,II,13
 works,otherSeparateWorks,legendGoodWomen,Edward,[1406-13],I,18
 works,otherSeparateWorks,legendGoodWomen,Lydgate,1430,I,36-43
@@ -364,7 +364,7 @@ works,canterburyTales,merchantTale,Dekker,1623,I,198
 works,canterburyTales,merchantTale,Marmion,1641,I,220
 works,canterburyTales,nunsPriestTale,Chaucer,1867,III,86
 works,canterburyTales,nunsPriestTale,Dryden,1700,I,285
-works,canterburyTales,nunsPriestTale,Powell,1841,II,239-40
+works,canterburyTales,nunsPriestTale,Powell,1841,II,239-240
 works,canterburyTales,nunsPriestTale,Lydgate,1444,I,46
 works,canterburyTales,nunsPriestTale,Unknown,[1440?],I,44
 works,canterburyTales,nunsPriestTale,Skelton,[1507?],I,68-69
@@ -387,12 +387,12 @@ works,canterburyTales,nunsPriestTale,Bell,[c. 1785],I,481
 works,canterburyTales,nunsPriestTale,Scott,1808,II,39-41
 works,canterburyTales,nunsPriestTale,Thoms,1844,II,257
 works,canterburyTales,clerkTale,Wright,1867,III,94
-works,canterburyTales,clerkTale,L[aing],1843,II,248
+works,canterburyTales,clerkTale,L[aing],1843,II,247-248
 works,canterburyTales,clerkTale,Ogle,1739,I,384-386
 works,canterburyTales,clerkTale,Unknown,1794,IV,100
 works,canterburyTales,clerkTale,Tytler,1828,II,171
 works,canterburyTales,clerkTale,Unknown,1837,II,219
-works,canterburyTales,clerkTale,Unknown,1845,II,266
+works,canterburyTales,clerkTale,Unknown,[1845,II,266
 works,canterburyTales,clerkTale,Dubuc — (translator).,1813,V,41-43
 works,canterburyTales,clerkTale,Unknown,1828,II,171
 works,canterburyTales,clerkTale,Collier,1841,II,229
@@ -573,7 +573,7 @@ works,canterburyTales,wifeBathTale,Bossewell,1572,I,108
 works,canterburyTales,wifeBathTale,Scot,1584,I,125
 works,canterburyTales,wifeBathTale,Harsnet,1603,I,173
 works,canterburyTales,wifeBathTale,Ritson,1831,II,182
-works,canterburyTales,wifeBathTale,Leigh Hunt,1834,II,191-192
+works,canterburyTales,wifeBathTale,Hunt,1834,II,191-192
 works,canterburyTales,earlyRecordsCopies,Brinchele,1420,I,25-26
 works,canterburyTales,earlyRecordsCopies,Bruyn,1471,I,56
 works,canterburyTales,earlyRecordsCopies,Parmenter,1479,I,60
@@ -602,7 +602,7 @@ works,canterburyTales,sequels,Richman,[c. 1810],II,49
 works,canterburyTales,sequels,Warner,1830,II,180
 works,canterburyTales,mancipleTale,Wordsworth,1801,II,2
 works,canterburyTales,mancipleTale,Wordsworth,1802,II,5
-works,canterburyTales,mancipleTale,Hunt,1841,II,234
+works,canterburyTales,mancipleTale,Horne,1841,II,234-238
 works,canterburyTales,mancipleTale,Unknown,1555,I,94
 works,canterburyTales,mancipleTale,Thynne,[a. 1608],I,180
 works,canterburyTales,criticism,Gray,1835,II,195
@@ -636,8 +636,8 @@ works,canterburyTales,criticism,Godwin,1803,II,6-9
 works,canterburyTales,criticism,Crabbe,1812,I,57
 works,canterburyTales,criticism,Mitford,1815,I,72
 works,canterburyTales,criticism,Campbell,1819,II,110-113
-works,canterburyTales,criticism,Hippisley,1837,II,217
-works,canterburyTales,criticism,De Quincey,1841,II,229-230
+works,canterburyTales,criticism,Hippisley,1837,II,212-217
+works,canterburyTales,criticism,[De Quincey,1841,II,229-230
 works,canterburyTales,criticism,Hunt,1846,II,269-271
 works,canterburyTales,criticism,Edgar,1852,III,9
 works,canterburyTales,criticism,Milman,1855,III,23-25
@@ -705,7 +705,7 @@ works,spuriousWorks,cuckooNightingale,[Clanvowe,[c. 1403],I,16
 works,spuriousWorks,cuckooNightingale,Thynne,1532,I,79
 works,spuriousWorks,cuckooNightingale,Cooke,1774,I,438
 works,spuriousWorks,cuckooNightingale,Wordsworth,1801,II,3
-works,spuriousWorks,cuckooNightingale,Hore,1841,II,234-238
+works,spuriousWorks,cuckooNightingale,Horne,1841,II,234-238
 works,spuriousWorks,cuckooNightingale,Unknown,1720,I,353
 works,spuriousWorks,chronicle,Shirley,[1450],I,48-49
 works,spuriousWorks,epitathEdward3,Winstanley,1660,I,238
