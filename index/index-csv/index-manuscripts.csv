@@ -1,6 +1,6 @@
 main_category,subcategory,sub_subcategory,author_name,date,volume,page
 manuscripts,,,MS,1400,I,26-64
-manuscripts,,,MS,1400,IV,4-8
+manuscripts,,,Lydgate,1430,IV,4
 manuscripts,,,Thynne,1598,I,149-155
 manuscripts,,,L’Estrange,1669-96,I,245
 manuscripts,,,Wanley,1697,IV,81
@@ -22,3 +22,5 @@ manuscripts,,,[Furnivall,1865,III,76
 manuscripts,,,Furnivall,1867,III,88-90
 manuscripts,,,Chaucer,1868-77,III,95-96
 manuscripts,,,[Baynes,1870,III,98-107
+manuscripts,,,Cumberworth,1450[-51],IV,6
+manuscripts,,,Spirleng,1476-7,IV,8

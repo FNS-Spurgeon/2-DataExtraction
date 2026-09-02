@@ -1,6 +1,6 @@
 main_category,subcategory,sub_subcategory,author_name,date,volume,page
 biography,life-records,,Unknown,1400,I,1-14
-biography,life-records,,Unknown,1400,IV,3
+biography,life-records,,Unknown,"1391, June 17",IV,3
 biography,life-records,,Rymer,1708-9,I,297
 biography,life-records,,Devon,1837,II,211
 biography,life-records,,Nicolas,1845,II,262
@@ -20,7 +20,7 @@ biography,episodes,diplomatic,Unknown,1370,I,2
 biography,episodes,diplomatic,Unknown,1372-3,I,2-3
 biography,episodes,diplomatic,Unknown,1376-8,I,4-6
 biography,episodes,diplomatic,Unknown,1380,I,6
-biography,episodes,diplomatic,Wharton,[c. 1687],IV,78
+biography,episodes,diplomatic,Wharton,[c. 1687,IV,78-80
 biography,episodes,diplomatic,Froissart,1410,I,20
 biography,episodes,diplomatic,Stowe,1592,I,136
 biography,episodes,tomb-epitath,Surigo,[a. 1479],I,59-60
@@ -28,7 +28,7 @@ biography,episodes,tomb-epitath,Leland,[c. 1545],I,87
 biography,episodes,tomb-epitath,Caxton,1479,I,59
 biography,episodes,tomb-epitath,Berthelet,1532,I,78
 biography,episodes,tomb-epitath,Brigham,1556,I,94
-biography,episodes,tomb-epitath,Leland,[c. 1545],IV,18-19
+biography,episodes,tomb-epitath,Leland,[c. 1545],IV,13-19
 biography,episodes,tomb-epitath,Foxe,1570,I,107
 biography,episodes,tomb-epitath,Rogers,[c. 1570],I,107
 biography,episodes,tomb-epitath,Holinshed,1577,I,114
@@ -36,7 +36,7 @@ biography,episodes,tomb-epitath,Lambarde,[c. 1585],I,126
 biography,episodes,tomb-epitath,Stowe,1598,I,159
 biography,episodes,tomb-epitath,Camden,1600,I,163
 biography,episodes,tomb-epitath,Marner,1606,I,178
-biography,episodes,tomb-epitath,Pits,1613,IV,65
+biography,episodes,tomb-epitath,Pits [or] Pitseus,1613,IV,63-65
 biography,episodes,tomb-epitath,Commaundre,[a. 1613],I,186
 biography,episodes,tomb-epitath,Vallans,1615,I,190-191
 biography,episodes,tomb-epitath,Basse,[c. 1622?],I,196
@@ -67,19 +67,19 @@ biography,episodes,tomb-epitath,Unknown,1566,I,99
 biography,episodes,tomb-epitath,Unknown,1585,I,128
 biography,episodes,tomb-epitath,Cæsar,1596,I,143
 biography,episodes,tomb-epitath,Haslewood,[c. 1833],II,187-189
-biography,episodes,education,Leland,[c. 1545],IV,13
-biography,episodes,education,Pits,1613,IV,63
+biography,episodes,education,Leland,[c. 1545],IV,13-19
+biography,episodes,education,Pits [or] Pitseus,1613,IV,63-65
 biography,episodes,education,W. Covell,1595,I,141-142
 biography,episodes,education,G. Powel,[1604],I,174
 biography,episodes,education,G. Jacob,1720,I,349
 biography,episodes,education,G. Jacob,1720,I,349
 biography,episodes,education,Unknown,1837,II,219
-biography,episodes,education,Wharton,[c. 1687],IV,78
-biography,episodes,education,Leland,[c. 1545],IV,13
-biography,episodes,education,Pits,1613,IV,63
-biography,episodes,education,Leland,[c. 1545],IV,14
-biography,episodes,education,Pits,1613,IV,63-64
-biography,episodes,education,Wharton,[c. 1687],IV,78
+biography,episodes,education,Wharton,[c. 1687,IV,78-80
+biography,episodes,education,Leland,[c. 1545],IV,13-19
+biography,episodes,education,Pits [or] Pitseus,1613,IV,63-65
+biography,episodes,education,Leland,[c. 1545],IV,13-19
+biography,episodes,education,Pits [or] Pitseus,1613,IV,63-65
+biography,episodes,education,Wharton,[c. 1687,IV,78-80
 biography,episodes,education,Hazlitt,1826,II,161-162
 biography,episodes,education,Hunt,1835,II,197
 biography,episodes,education,Thynne,1598,I,154
@@ -104,15 +104,15 @@ biography,episodes,appointments,Sub-Forester of North Petherton,1390-1,I,11
 biography,episodes,appointments,granted an annuity of £20 by the king,1394,I,12
 biography,episodes,appointments,granted a butt of wine yearly,1398,I,13
 biography,episodes,appointments,granted an additional annuity of 40 marks,1399,I,13
-biography,episodes,death,Leland,[c. 1545],IV,18
-biography,episodes,death,Bale,1548,IV,20
+biography,episodes,death,Leland,[c. 1545],IV,13-19
+biography,episodes,death,Bale,1548,IV,19-21
 biography,episodes,death,Holinshed,1577,I,114
 biography,episodes,death,Phillips,1675,I,250
 biography,episodes,death,Powel,[1604],I,174
 biography,episodes,death,S.,1597,I,144
-biography,episodes,birth,Leland,[c. 1545],IV,13
-biography,episodes,birth,Pits,1613,IV,63
-biography,episodes,birth,Wharton,[c. 1687],IV,78
+biography,episodes,birth,Leland,[c. 1545],IV,13-19
+biography,episodes,birth,Pits [or] Pitseus,1613,IV,63-65
+biography,episodes,birth,Wharton,[c. 1687,IV,78-80
 biography,episodes,birth,Unknown,1778,I,452
 biography,episodes,birth,[C]larke,1842,II,244
 biography,episodes,other-episodes,in household of the Duchess of Clarence,1357,I,1
@@ -130,17 +130,17 @@ biography,episodes,other-episodes,action for debt against,1398,I,12-13
 biography,episodes,other-episodes,his Westminster lease,1399,I,13-14
 biography,episodes,other-episodes,Rawlinson,1752,IV,91
 biography,episodes,other-episodes,Johnson,[1712?],I,322
-biography,episodes,other-episodes,Bale,1548,IV,19
+biography,episodes,other-episodes,Bale,1548,IV,19-21
 biography,episodes,other-episodes,A Student in Cambridge,1579,I,119
 biography,episodes,other-episodes,Greene,1590,I,131
 biography,episodes,other-episodes,Powel,[1604],I,174
 biography,episodes,other-episodes,Unknown,1606,I,177
 biography,episodes,other-episodes,Peacham,1622,I,197
-biography,episodes,other-episodes,Pits,1613,IV,64
+biography,episodes,other-episodes,Pits [or] Pitseus,1613,IV,63-65
 biography,episodes,other-episodes,Leigh,1656,I,233
 biography,episodes,other-episodes,Aubrey,1669,I,245
 biography,episodes,other-episodes,Phillips,1675,I,250
-biography,episodes,other-episodes,Wharton,[c. 1687],IV,78
+biography,episodes,other-episodes,Wharton,[c. 1687,IV,78-80
 biography,episodes,other-episodes,Jacob,1720,I,349
 biography,episodes,other-episodes,Nicolas,1845,II,262
 biography,episodes,other-episodes,Gildon,1721,IV,84
@@ -150,12 +150,12 @@ biography,episodes,other-episodes,Dryden,1670,I,247
 biography,episodes,other-episodes,Howell,[1679],I,254
 biography,episodes,other-episodes,Jacob,1720,I,349
 biography,episodes,other-episodes,Unknown,1778,I,452-454
-biography,episodes,other-episodes,Wharton,[c. 1687],IV,79
+biography,episodes,other-episodes,Wharton,[c. 1687,IV,78-80
 biography,episodes,other-episodes,Unknown,1778,I,453
 biography,episodes,other-episodes,Clarke,1835,II,194
 biography,episodes,other-episodes,[C]larke,1842,II,244
 biography,episodes,other-episodes,Cunningham,1835,II,194-195
-biography,episodes,other-episodes,Leland,[c. 1545],IV,18
+biography,episodes,other-episodes,Leland,[c. 1545],IV,13-19
 biography,episodes,other-episodes,Peacham,1622,I,197
 biography,episodes,other-episodes,Pollard,1894,III,148
 biography,family,arms-seal,Robson,1830,II,179
@@ -187,7 +187,7 @@ biography,family,other-holders,Nicolas,1826,II,163
 biography,family,other-holders,Unknown,1787,I,486
 biography,family,other-holders,Bentley,1831,II,180-181
 biography,family,other-holders,Weever,1631,IV,66
-biography,family,other-holders,Pits,1613,IV,64-65
+biography,family,other-holders,Pits [or] Pitseus,1613,IV,63-65
 biography,portraits,original,Unknown,1866,III,86
 biography,portraits,original,Eller,1841,II,233
 biography,portraits,original,"""M—s.""",1792,I,493
@@ -229,8 +229,8 @@ biography,portraits,modern,Brown,1845-51,II,259
 biography,portraits,modern,Burne-Jones,1862,III,61
 biography,portraits,modern,Dodsley,1761,IV,93
 biography,portraits,modern,"[Leigh,",1845,II,260
-biography,portraits,modern,Rymsdyk,1778,IV,95
-biography,portraits,modern,D’Israeli,1793,IV,100
+biography,portraits,modern,Rymadyk,1778,IV,95
+biography,portraits,modern,D'Israeli,1793,IV,99-100
 biography,portraits,modern,Unknown,[1592],I,137
 biography,general-accounts,german,Breyer,1812,V,138-139
 biography,general-accounts,german,Meyer,1845,V,141-142
@@ -258,14 +258,14 @@ biography,general-accounts,french,Larousse,1867,V,80-82
 biography,general-accounts,french,Gausseron,1887,V,92-94
 biography,general-accounts,french,Legouis,1910,V,121-122
 biography,general-accounts,english,Leland,[c. 1545],IV,13-19
-biography,general-accounts,english,Bale,1548-57,IV,19-27
+biography,general-accounts,english,Bale,1548,IV,19-21
 biography,general-accounts,english,Holinshed,1577,I,114-15
 biography,general-accounts,english,Stowe,1600,I,164-165
 biography,general-accounts,english,Pits,1613,I,191
-biography,general-accounts,english,Pits,1613,IV,63-66
+biography,general-accounts,english,Pits [or] Pitseus,1613,IV,63-65
 biography,general-accounts,english,T. Fuller,1655,I,230-231
 biography,general-accounts,english,Leigh,1656,I,233
-biography,general-accounts,english,Wharton,1687,IV,78-80
+biography,general-accounts,english,Wharton,[c. 1687,IV,78-80
 biography,general-accounts,english,Jacob,1720,I,349
 biography,general-accounts,english,Dart,1721,I,358-361
 biography,general-accounts,english,Unknown,1748,I,395-396
@@ -286,7 +286,7 @@ biography,general-accounts,english,Dunham,1836,II,204-205
 biography,general-accounts,english,Unknown,1837,II,219
 biography,general-accounts,english,Schmitz,1841,II,240
 biography,general-accounts,english,[C]larke,1842,II,244
-biography,general-accounts,english,Chambers,1843,IV,106
+biography,general-accounts,english,[Chambers,1843,IV,106
 biography,general-accounts,english,Nicolas,[1843-4],II,248
 biography,general-accounts,english,[Saunders,1845,II,266
 biography,general-accounts,english,Deshler,1847,II,274
@@ -295,3 +295,4 @@ biography,general-accounts,english,Unknown,1856,III,36-37
 biography,general-accounts,english,Unknown,1866,III,85
 biography,general-accounts,english,Ward,1879,III,124-126
 biography,general-accounts,english,Pollard,1893,III,144-145
+biography,general-accounts,english,Bale,1557,IV,21-27

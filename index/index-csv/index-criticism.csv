@@ -15,8 +15,8 @@ criticism,evolution,,Smith,1862,III,65-66
 criticism,evolution,,Legouis,1908,V,113-119
 criticism,evolution,,[Baynes,1870,III,98-107
 criticism,evolution,,Furnivall,1888,III,138
-criticism,influence,,Arthur Broke,1562,IV,29-33
-criticism,influence,,William Browne,1613-16,IV,62
+criticism,influence,,Brooke,1562,IV,29-33
+criticism,influence,,Browne,1613-16,IV,62
 criticism,influence,,Lyly,[1578],IV,41-42
 criticism,influence,,Upton,1748,I,396-398
 criticism,influence,,Shakespeare,[1589-1603],IV,45-46
@@ -163,7 +163,7 @@ criticism,qualities,learning,Milton,1641,I,221
 criticism,qualities,learning,E. G.,1646,I,225
 criticism,qualities,learning,Leigh,1656,I,232
 criticism,qualities,learning,Whitelock,[a. 1675],I,251
-criticism,qualities,learning,Wharton,[c. 1687],IV,79
+criticism,qualities,learning,Wharton,[c. 1687,IV,78-80
 criticism,qualities,learning,Howard,1689,I,262
 criticism,qualities,learning,Dryden,1700,I,274
 criticism,qualities,learning,Hatton,1708,I,296
@@ -256,8 +256,8 @@ criticism,qualities,indecencyFrivolity,Lowell,1870,III,108-111
 criticism,qualities,indecencyFrivolity,Ward,1879,III,124-126
 criticism,qualities,artificiality,Seward,1806,II,28
 criticism,qualities,artificiality,Unknown,1877,III,122-123
-criticism,qualities,piety,Leland,[c. 1545],IV,13
-criticism,qualities,piety,Wharton,[c. 1687],IV,78-80
+criticism,qualities,piety,Leland,[c. 1545],IV,13-19
+criticism,qualities,piety,Wharton,[c. 1687,IV,78-80
 criticism,qualities,piety,Astrophil,1740,I,387
 criticism,qualities,piety,Unknown,1775,V,35-36
 criticism,qualities,piety,[Barrett,1843,II,246
@@ -323,7 +323,7 @@ criticism,qualities,moralPurposeSatire,Unknown,1775,V,35-36
 criticism,qualities,moralPurposeSatire,Hazlitt,1826,II,161-162
 criticism,qualities,moralPurposeSatire,Lowell,1870,III,108-111
 criticism,qualities,moralPurposeSatire,Ward,1879,III,124-126
-criticism,qualities,facility,Landor,1811,IV,103-104
+criticism,qualities,facility,Landor,[1811],IV,103-104
 criticism,qualities,facility,Lowell,1870,III,108-111
 criticism,qualities,facility,Lounsbury,1891,III,140-144
 criticism,qualities,realism,Unknown,1477,I,57
@@ -377,7 +377,7 @@ criticism,comparisons,spenser,R. R.,1605,I,176
 criticism,comparisons,spenser,Hughes,1715,I,340
 criticism,comparisons,spenser,Thompson,1745,I,391-392
 criticism,comparisons,spenser,Southey,1811,II,55
-criticism,comparisons,spenser,Landor,1811,IV,103
+criticism,comparisons,spenser,Landor,[1811],IV,103-104
 criticism,comparisons,spenser,Landor,[n.a. 1841],II,239
 criticism,comparisons,spenser,Hazlitt,1818,II,98-106
 criticism,comparisons,spenser,Hazlitt,1826,II,161-162
@@ -385,7 +385,7 @@ criticism,comparisons,laFontaine,Jusserand,1878,V,85
 criticism,comparisons,hogarth,Bancks,1738,I,383
 criticism,comparisons,hogarth,Lamb,1811,II,54
 criticism,comparisons,ossian,Thoreau,1843,II,250-252
-criticism,comparisons,cicero,Bale,1562,IV,28
+criticism,comparisons,cicero,Bale,1562,IV,28-29
 criticism,comparisons,boccaccio,Rogers,[c. 1570],I,107
 criticism,comparisons,boccaccio,Dryden,1700,I,272-286
 criticism,comparisons,boccaccio,Dunlop,1814,II,61-63
@@ -405,9 +405,9 @@ criticism,comparisons,ennius,Wesley,1700,I,289
 criticism,comparisons,ennius,Hughes,[c. 1707],I,294
 criticism,comparisons,ennius,Ruddiman,1710,I,313
 criticism,comparisons,howell,Keeper,1568,I,102
-criticism,comparisons,homer,Leland,[c. 1545],IV,15
+criticism,comparisons,homer,Leland,[c. 1545],IV,13-19
 criticism,comparisons,homer,Camden,1586,I,128
-criticism,comparisons,homer,Vulcanius,1586,IV,187
+criticism,comparisons,homer,Vulcanius,1586,IV,107
 criticism,comparisons,homer,Unknown,1830,II,179-180
 criticism,comparisons,homer,[De Quincey,1838-9,II,221-222
 criticism,comparisons,homer,De Quincey,1841,II,229-230
@@ -553,7 +553,7 @@ criticism,language,refiningEnglish,Bradshaw,1513,I,71
 criticism,language,refiningEnglish,Rastell (?),[1520],I,73
 criticism,language,refiningEnglish,Copland,1530,I,77
 criticism,language,refiningEnglish,Tuke,1532,I,79-80
-criticism,language,refiningEnglish,Leland,[c. 1545],IV,14
+criticism,language,refiningEnglish,Leland,[c. 1545],IV,13-19
 criticism,language,refiningEnglish,Braham,1555,I,93
 criticism,language,refiningEnglish,Gascoigne,1576,I,112
 criticism,language,refiningEnglish,Holinshed,1577,I,114
@@ -621,7 +621,7 @@ criticism,language,obsoleteRude,Pope,[1709],I,310-311
 criticism,language,obsoleteRude,Dennis,[1711],I,314-315
 criticism,language,obsoleteRude,Nicols,1711,I,317
 criticism,language,obsoleteRude,Oldmixon,[1712?],I,322-333
-criticism,language,obsoleteRude,King,1712,IV,82
+criticism,language,obsoleteRude,[King,1712,IV,82
 criticism,language,obsoleteRude,Unknown,1730,I,373
 criticism,language,obsoleteRude,Unknown,1731,I,373
 criticism,language,obsoleteRude,Dalrymple (?),1761,I,421
@@ -640,7 +640,7 @@ criticism,language,obsoleteRude,Unknown,1859,III,48-49
 criticism,language,obsoleteRude,Arnold,1861-2,III,54-55
 criticism,language,,Jonson,1640,IV,70
 criticism,language,,Coles,1676,IV,77
-criticism,language,,Gibson,1691,IV,80-81
+criticism,language,,G[ibson],1691,IV,80-81
 criticism,language,,Welsted,1724,I,367
 criticism,language,,Morell,1737,I,381-382
 criticism,language,,Gray,[1760-1?],I,418-421

@@ -89,7 +89,7 @@ works,otherSeparateWorks,boethius,Brinchele,1420,I,25
 works,otherSeparateWorks,truth,Shirley,[c. 1450],I,48
 works,otherSeparateWorks,truth,Unknown,[c. 1488],I,63
 works,otherSeparateWorks,truth,Unknown,[1543?],I,85
-works,otherSeparateWorks,truth,Unknown,[c. 1450],IV,7
+works,otherSeparateWorks,truth,Unknown,[c. 1450],IV,5-6
 works,otherSeparateWorks,truth,Chaucer,[1477-8],I,58
 works,otherSeparateWorks,truth,Tottel,1557,I,94
 works,otherSeparateWorks,truth,Furnivall,1867,III,88
@@ -172,18 +172,18 @@ works,otherSeparateWorks,troilus,Bale,1557,IV,21-27
 works,otherSeparateWorks,troilus,Elderton,1559,IV,27-28
 works,otherSeparateWorks,troilus,Brooke,1562,IV,29-33
 works,otherSeparateWorks,troilus,Unknown,[1566],IV,34
-works,otherSeparateWorks,troilus,Tuberville,[c. 1567],IV,35
+works,otherSeparateWorks,troilus,Tubervile,[c. 1567],IV,35
 works,otherSeparateWorks,troilus,Fulwood,1568,IV,35-36
 works,otherSeparateWorks,troilus,Stewart,1568,IV,36
 works,otherSeparateWorks,troilus,Unknown,1568,IV,36-37
-works,otherSeparateWorks,troilus,Tuberville,[1569],IV,37
+works,otherSeparateWorks,troilus,Tubervile,[1569],IV,37
 works,otherSeparateWorks,troilus,Gascoigne,[n.a. 1572],IV,38
 works,otherSeparateWorks,troilus,Gascoigne,[1575],IV,39
-works,otherSeparateWorks,troilus,L.,1576,IV,39-40
+works,otherSeparateWorks,troilus,L,1576,IV,39-40
 works,otherSeparateWorks,troilus,Unknown,1576,IV,40
 works,otherSeparateWorks,troilus,Whetstone,1576,IV,40
 works,otherSeparateWorks,troilus,[Procter],1578,IV,42
-works,otherSeparateWorks,troilus,A Student in Cambridge,1579,IV,42-43
+works,otherSeparateWorks,troilus,A Student in Cambridge. [C,1579,IV,42-43
 works,otherSeparateWorks,troilus,Unknown,1580,IV,43
 works,otherSeparateWorks,troilus,Unknown,[c. 1582],IV,43
 works,otherSeparateWorks,troilus,Tomson,1584,IV,44
@@ -238,7 +238,7 @@ works,otherSeparateWorks,troilus,Unknown,[1450-60?],I,53
 works,otherSeparateWorks,troilus,Hawes,1506,I,67
 works,otherSeparateWorks,troilus,Skelton,1523,I,74
 works,otherSeparateWorks,troilus,Unknown,[1525?],I,75
-works,otherSeparateWorks,troilus,Wyer (?),[n.b. 1536],IV,107
+works,otherSeparateWorks,troilus,W[yer?],[n.b. 1536],IV,107
 works,otherSeparateWorks,troilus,Berthelet,1532,I,77
 works,otherSeparateWorks,troilus,Roper,1535,I,81
 works,otherSeparateWorks,troilus,Wyatt,[a. 1542],I,83-84
@@ -465,7 +465,7 @@ works,canterburyTales,parsonTale,Unknown,[c. 1420-30],I,32
 works,canterburyTales,parsonTale,Unknown,[c. 1420-30],I,32
 works,canterburyTales,parsonTale,Unknown,1841,II,240-241
 works,canterburyTales,parsonTale,Hearne,1709,I,306-9
-works,canterburyTales,parsonTale,Young,[c. 1730],IV,85
+works,canterburyTales,parsonTale,[Young,[c. 1730],IV,85
 works,canterburyTales,parsonTale,Thoreau,1842,II,245
 works,canterburyTales,editionsEnglish,Chaucer,[1477-8],I,58
 works,canterburyTales,editionsEnglish,Caxton,[c. 1483?],I,61-63
@@ -486,7 +486,7 @@ works,canterburyTales,editionsEnglish,Chaucer,1860,III,52-53
 works,canterburyTales,editionsEnglish,Chaucer,1868-77,III,95-96
 works,canterburyTales,editionsEnglish,[Baynes,1870,III,98-107
 works,canterburyTales,wifeBathPrologue,Pope,1714,I,330
-works,canterburyTales,wifeBathPrologue,Unknown,1520,IV,11
+works,canterburyTales,wifeBathPrologue,Unknown,[c. 1520],IV,11
 works,canterburyTales,wifeBathPrologue,Lydgate,[c. 1430?],I,35
 works,canterburyTales,wifeBathPrologue,Unknown,[c. 1440],I,44-45
 works,canterburyTales,wifeBathPrologue,Skelton,1507,I,69
@@ -586,11 +586,11 @@ works,canterburyTales,sirThopas,Unknown,[c. 1420],I,26
 works,canterburyTales,sirThopas,Unknwon,[c. 1420-30],I,32
 works,canterburyTales,sirThopas,Drayton,1593,I,139
 works,canterburyTales,sirThopas,Άποδημουντόφιλος,1611,I,185
-works,canterburyTales,sirThopas,Skelton,1510-23,IV,10-11
+works,canterburyTales,sirThopas,Skelton,[c. 1510],IV,10
 works,canterburyTales,sirThopas,Wyatt,[a. 1542],I,83-44
 works,canterburyTales,sirThopas,Thynne,1600,I,165-166
 works,canterburyTales,sirThopas,Hurd,1762,I,422
-works,canterburyTales,sirThopas,Hurdn,1765,IV,93-94
+works,canterburyTales,sirThopas,Hurd,1765,IV,93-94
 works,canterburyTales,sirThopas,Percy,1765,I,427-429
 works,canterburyTales,sirThopas,Bossewell,1572,I,109
 works,canterburyTales,sirThopas,Spenser,1599,I,161
@@ -620,7 +620,7 @@ works,canterburyTales,criticism,Skelton,1507,I,69
 works,canterburyTales,criticism,Hanmer,1576,I,112
 works,canterburyTales,criticism,Beaumont,1597,I,146
 works,canterburyTales,criticism,Harvey,[1598-1600?],IV,49
-works,canterburyTales,criticism,Speght,1598,IV,52
+works,canterburyTales,criticism,Speght,1598,IV,52-53
 works,canterburyTales,criticism,Le Roux de Lincy,1847,V,60
 works,canterburyTales,criticism,Hawes,1506,I,67
 works,canterburyTales,criticism,Puttenham,[1584-8],I,125
@@ -696,8 +696,8 @@ works,spuriousWorks,gamelynTale,Keats,1818,II,107
 works,spuriousWorks,taleBeryn,Unknown,[a. 1450],IV,5-6
 works,spuriousWorks,taleBeryn,Urry,1721,I,79
 works,spuriousWorks,taleBeryn,Wright,1845,II,267
-works,spuriousWorks,collective,Leland,[c. 1545],IV,17
-works,spuriousWorks,collective,Bale,1548,IV,19-20
+works,spuriousWorks,collective,Leland,[c. 1545],IV,13-19
+works,spuriousWorks,collective,Bale,1548,IV,19-21
 works,spuriousWorks,collective,Chaucer,1532,I,78-79
 works,spuriousWorks,collective,Unknown,1568,I,102-103
 works,spuriousWorks,collective,Thynne,1598,I,154-155
@@ -710,3 +710,4 @@ works,spuriousWorks,cuckooNightingale,Unknown,1720,I,353
 works,spuriousWorks,chronicle,Shirley,[1450],I,48-49
 works,spuriousWorks,epitathEdward3,Winstanley,1660,I,238
 works,otherSeparateWorks,houseFame,Editor [N. & Q.],1851,III,4
+works,canterburyTales,sirThopas,Skelton,1523,IV,11
