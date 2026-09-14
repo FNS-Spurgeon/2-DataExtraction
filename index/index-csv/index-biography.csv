@@ -1,7 +1,7 @@
 main_category,subcategory,sub_subcategory,author_name,date,volume,page
 biography,life-records,,Unknown,1400,I,1-14
 biography,life-records,,Unknown,"1391, June 17",IV,3
-biography,life-records,,Rymer,1708-9,I,297
+biography,life-records,,Rymer,1708,I,297
 biography,life-records,,Devon,1837,II,211
 biography,life-records,,Nicolas,1845,II,262
 biography,life-records,,N. and Q.,1865,III,79-80
@@ -44,10 +44,10 @@ biography,episodes,tomb-epitath,Weever,1631,I,204
 biography,episodes,tomb-epitath,Unknown,[c. 1680 ?],I,255
 biography,episodes,tomb-epitath,Keepe,1681,I,255-256
 biography,episodes,tomb-epitath,Keepe,1682,IV,77
-biography,episodes,tomb-epitath,Unknown,1700,I,286-288
-biography,episodes,tomb-epitath,Hatton,1708,I,296
+biography,episodes,tomb-epitath,Unknown,1700,I,286
+biography,episodes,tomb-epitath,[Hatton,1708,I,296
 biography,episodes,tomb-epitath,Strype,1720,I,352
-biography,episodes,tomb-epitath,Dart,1723,I,363
+biography,episodes,tomb-epitath,Dart,1723,I,363-366
 biography,episodes,tomb-epitath,Catling,[c. 1780],IV,96
 biography,episodes,tomb-epitath,Gough,1786- 96,I,483
 biography,episodes,tomb-epitath,Burlington,1779,I,456
@@ -71,7 +71,7 @@ biography,episodes,education,Leland,[c. 1545],IV,13-19
 biography,episodes,education,Pits [or] Pitseus,1613,IV,63-65
 biography,episodes,education,W. Covell,1595,I,141-142
 biography,episodes,education,G. Powel,[1604],I,174
-biography,episodes,education,G. Jacob,1720,I,349
+biography,episodes,education,Jacob,1720,I,349-350
 biography,episodes,education,G. Jacob,1720,I,349
 biography,episodes,education,Unknown,1837,II,219
 biography,episodes,education,Wharton,[c. 1687,IV,78-80
@@ -141,7 +141,7 @@ biography,episodes,other-episodes,Leigh,1656,I,233
 biography,episodes,other-episodes,Aubrey,1669,I,245
 biography,episodes,other-episodes,Phillips,1675,I,250
 biography,episodes,other-episodes,Wharton,[c. 1687,IV,78-80
-biography,episodes,other-episodes,Jacob,1720,I,349
+biography,episodes,other-episodes,Jacob,1720,I,349-350
 biography,episodes,other-episodes,Nicolas,1845,II,262
 biography,episodes,other-episodes,Gildon,1721,IV,84
 biography,episodes,other-episodes,Lydgate,[1403?],I,17
@@ -201,8 +201,8 @@ biography,portraits,original,Unknown.,1821,II,135
 biography,portraits,original,Harbottle,1836,II,209
 biography,portraits,original,Unknown,[c. 1540],I,82-83
 biography,portraits,original,Sykes,1726,I,368
-biography,portraits,original,Hearne,1711,I,315
-biography,portraits,original,Bridges,1716,I,343
+biography,portraits,original,Hearne,1711,I,315-317
+biography,portraits,original,Bridges,[1716],I,343
 biography,portraits,original,Gray,1760,I,417-418
 biography,portraits,original,Walpole,1762,I,423
 biography,portraits,original,[Procter,1824,II,151-152
@@ -296,3 +296,4 @@ biography,general-accounts,english,Unknown,1866,III,85
 biography,general-accounts,english,Ward,1879,III,124-126
 biography,general-accounts,english,Pollard,1893,III,144-145
 biography,general-accounts,english,Bale,1557,IV,21-27
+biography,life-records,,Rymer,1709,I,311
