@@ -25,8 +25,8 @@ time."
 This Merlin is the prophet Dan Geoffrey Chaucer. Among
 some verses prefixed to the prologues of the Canterbury tales
 are the following, intitled
-"When faith faylith in Priest'is sawes,
 Chaucer's Prophecie.
+"When faith faylith in Priest'is sawes,
 And lordes hestes are holde for lawes,
 And robberie is holde purchace,
 And letcherie is holde solace;
@@ -76,7 +76,7 @@ in Shakespeare,
 And stands alone.”
 [Notes,
 [Errors in transcription in old writers.] In the Legende of
-p. 408]
+p. 403]
 Hypsipyle and Medæa, l. 308,
 "And of thy tongue the infynite graciousnesse?"
 Can it be doubted then that Chaucer wrote yfained or
