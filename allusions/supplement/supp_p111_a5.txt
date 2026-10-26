@@ -1,4 +1,4 @@
-1889. Bright, James W. Review of Chaucer's Minor Poems, ed. W. W.
+1889. Bright, James W. Review of Chaucer's Minor Poems. ed. W. W.
 Skeat (1888), [in] Modern Language Notes. Baltimore, 1889, vol. iv,
 pp. 180-2.
 [p.180] Dr. Furnivall has made an appeal for "somebody with
@@ -13,7 +13,7 @@ Poetry. Just as the characteristics of the dramatists of the
 Restoration Period may be understood by their treatment of
 the plays of Shakespeare, so the repute of Chaucer at any
 given time will serve to reveal much of the culture and of the
-poetic fashions of that time. . . . The period [the nineteenth
+poetic fashions of that time.   . . . The period [the nineteenth
 century] that was ushered in by the boyish filchings from
 Chaucer's vocabulary, was also born with a spirit atuned to
 his harmonies. And how intuitive has been our return to
@@ -28,4 +28,4 @@ assay those compositions
 [p. 182] The student of Chaucer feels at every turn the want of an
 exhaustive dictionary of the poet’s language; an extension,
 therefore, of the "Glossarial Index" to a complete Glossary
-for the texts in this volume, would be videly welcomed.
+for the texts in this volume, would be widely welcomed.

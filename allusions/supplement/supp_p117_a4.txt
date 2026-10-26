@@ -1,19 +1,22 @@
 1891. Lounsbury, Thomas R. Studies in Chaucer: His Life and
 Writings. In three volumes, 1892.
 [Vol. 1. Chapter I.—The Life of Chaucer.
-" Chapter II.—The Chaucer Legend.
-" Chapter III.—The Text of Chaucer.
-" Chapter IV.—The Writings-of Chaucer.
+,,
+Chapter II.—The Chaucer Legend.
+,, Chapter III.—The Text of Chaucer.
+,, Chapter IV.—The Writings of Chaucer.
 Vol. II. Chapter IV. (continued).—The Romance of the Rose.
-" Chapter V.—The Learning of Chaucer,
-" Chapter VI.—The Relations of Chaucer to the English
+,, Chapter V.—The Learning of Chaucer,
+,, Chapter VI.—The Relations of Chaucer to the English
 Language and to the Religion of his
 Time.
 Vol. III. Chapter VII.—Chaucer in Literary History (in three
 sections).
-" Chapter VIII.—Chaucer as a Literary Artist.
-" Appendix].
-[Vol. iii, p. 439] I have sought to show that Chaucer was not only a great
+,, Chapter VIII.—Chaucer as a Literary Artist.
+,, Appendix].
+[Vol. iii,
+I have sought to show that Chaucer was not only a great
+p. 439]
 artist, but that he became so at the cost of time and labour;
 that in him, standing at the fountain-head of English litera¬
 ture, the critical spirit was as highly developed as the creative;
@@ -76,7 +79,7 @@ of life without becoming prosaic one’s self; of narrating them
 in the plainest terms, and yet investing them with a poetic
 charm. It is in the power of genius only to accomplish this
 at all; but it is by no means in the power of all genius.
-[p.442] It is because he stayed so persistently on these low levels
+[p. 442] It is because he stayed so persistently on these low levels
 that Chaucer was enabled to combine with apparent ease
 characteristics and methods that are often deemed incompatible.
 His words are the more effective because their very simplicity
@@ -93,10 +96,10 @@ allusion imparts to his matter. I do not mean by this to
 convey the idea that Chaucer abounds in ornate and brilliant
 passages, or that he is constantly saying remarkable things in
 a remarkable way. It is simply that in dealing with the
-common he is never common-place. . . . As a further result
+common he is never common-place.  . . . As a further result
 of this absolute naturalness, he is enabled to pass from the
 gravest to the lightest topics without giving the reader the
-[p. 443] slightest sensation of shock. . . . His freedom, indeed, verges
+[p. 443] slightest sensation of shock.  . . . His freedom, indeed, verges
 at times upon audacity, for the knight's tale, for illustration,
 following close upon the high-wrought description of the great
 tournament comes the recital of the methods taken by the
@@ -112,7 +115,7 @@ With this quaint expression of personal opinion, he passes at
 once to the pathetic parting scene between the dying lover
 and the woman for whom he is about to die. Yet these rapid
 transitions do not produce upon the mind any effect of inap¬
-propriateness or incongruity. Tears aud laughter stand side
+propriateness or incongruity. Tears and laughter stand side
 by side in Chaucer’s verse as they do in life . . .
 [p. 444] I am not claiming for Chaucer that he is one of the few
 supremest poets of the race. His station is near them, but he
@@ -123,7 +126,7 @@ longer be shaken by criticism or disturbed by denial . . . To
 one alone among the writers of our own literature is he
 inferior. Nor even by him has he been surpassed in every
 way. There are characteristics in which he has no superior.
-and, it may be right ro add, in which he has no equal. . . .
+and, it may be right ro add, in which he has no equal.  . . .
 There is one particular in which his merits in reference to the
 literature are transcendent. He overcame its natural tendencies
 to a dull seriousness which could sometimes be wrought into
